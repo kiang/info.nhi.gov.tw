@@ -1,0 +1,185 @@
+{
+    "hosP_NAME": "十方中醫診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "05-3706046",
+    "hosP_ADDR": "嘉義縣朴子市海通路４１之１２號",
+    "hosP_ID": "3840011157",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "無障礙通路",
+    "nonE_OBS_MEMO": "",
+    "srV_LIST": "門診診療",
+    "funC_TYPE": "中醫一般科",
+    "srV_INFO": {
+        "srv_Time": [
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "61",
+                    "hospName": null
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "71",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "62",
+                    "hospName": null
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "72",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "63",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "73",
+                    "hospName": ""
+                }
+            ]
+        ],
+        "srv_Date": "113\/02\/02",
+        "srv_Memo": null
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "",
+    "offdaystr": "",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 100元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費 200元。",
+        "feE_REMARK_NAME": "醫事機構備註：自費免收掛號費，身心障礙、福保、七十歲以上減免50元"
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "南區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3840011157",
+    "hosP_TYPE_NAME": "中醫一般診所",
+    "prE_SRV_LIST": "-",
+    "video_data": [
+        {
+            "vedioy": "否",
+            "codE_CNAME": "-",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 120.242096,
+    "latitude": 23.463648
+}

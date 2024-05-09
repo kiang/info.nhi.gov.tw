@@ -1,0 +1,185 @@
+{
+    "hosP_NAME": "富康中醫診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "049-2242625",
+    "hosP_ADDR": "南投縣南投市祖祠路２７５號１Ｆ",
+    "hosP_ID": "3838011521",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "門診診療",
+    "funC_TYPE": "中醫一般科",
+    "srV_INFO": {
+        "srv_Time": [
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "61",
+                    "hospName": null
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "71",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "62",
+                    "hospName": null
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "72",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "63",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "73",
+                    "hospName": ""
+                }
+            ]
+        ],
+        "srv_Date": "113\/05\/05",
+        "srv_Memo": null
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "",
+    "offdaystr": "",
+    "plans": "居家醫療整合照護計畫、居家醫療整合照護計畫-居家中醫醫療服務、視訊診療",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 50元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - "
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "中區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3838011521",
+    "hosP_TYPE_NAME": "中醫一般診所",
+    "prE_SRV_LIST": "-",
+    "video_data": [
+        {
+            "vedioy": "是",
+            "codE_CNAME": "-",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 120.67808,
+    "latitude": 23.914263
+}

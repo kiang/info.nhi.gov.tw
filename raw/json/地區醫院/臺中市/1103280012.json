@@ -1,0 +1,192 @@
+{
+    "hosP_NAME": "醫療財團法人正德癌症醫療基金會佛教正德醫院",
+    "hosP_CNT_TYPE": "地區醫院",
+    "hosptel": "04-37026588",
+    "hosP_ADDR": "臺中市南屯區文心南五路三段１００號",
+    "hosP_ID": "1103280012",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "復健－物理治療業務、復健－職能治療業務、復健－語言治療業務、門診診療、住院診療",
+    "funC_TYPE": "家醫科、內科、外科、復健科、中醫一般科、放射診斷科",
+    "srV_INFO": {
+        "srv_Time": [
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "61",
+                    "hospName": null
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "71",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "62",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "72",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "63",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "73",
+                    "hospName": ""
+                }
+            ]
+        ],
+        "srv_Date": "113\/05\/01",
+        "srv_Memo": "本院無急診"
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "",
+    "offdaystr": "",
+    "plans": "B、C肝個案追蹤醫療給付改善方案、C型肝炎全口服新藥健保給付執行計畫、中醫兒童過敏性鼻炎照護試辦計畫、中醫慢性腎臟病門診加強照護計畫、中醫癌症患者加強照護整合方案─特定癌症患者中醫門診加強照護計畫、中醫癌症患者加強照護整合方案─癌症患者西醫住院中醫輔助醫療計畫、安寧共同照護試辦方案、居家醫療整合照護計畫、西醫住院病患中醫特定疾病輔助醫療計畫、視訊診療",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 100元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費 0元。",
+        "feE_REMARK_NAME": "醫事機構備註：本院無急診"
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [
+        {
+            "hosP_ID": "1103280012",
+            "hosP_REG": "X",
+            "beD_LINK": "請點選",
+            "beD_HTTP": "http:\/\/49.213.159.219\/BedStatus\/BedStatus.html"
+        }
+    ],
+    "hosP_FLU": "是",
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "中區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=1103280012",
+    "hosP_TYPE_NAME": "醫院",
+    "prE_SRV_LIST": "成人預防保健、婦女子宮頸抹片檢查、口腔黏膜檢查、定量免疫法糞便潛血檢查、胸部低劑量電腦斷層檢查",
+    "video_data": [
+        {
+            "vedioy": "是",
+            "codE_CNAME": "-",
+            "codE_ENAME": "提供兒童快篩陽性確診評估與相關藥物開立",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 120.63093,
+    "latitude": 24.143208
+}

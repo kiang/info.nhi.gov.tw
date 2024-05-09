@@ -1,0 +1,192 @@
+{
+    "hosP_NAME": "國立臺灣大學醫學院附設醫院癌醫中心分院",
+    "hosP_CNT_TYPE": "區域醫院",
+    "hosptel": "02-23220322",
+    "hosP_ADDR": "臺北市大安區基隆路３段１５５巷５７號",
+    "hosP_ID": "0401020013",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "復健－物理治療業務、復健－職能治療業務、復健－語言治療業務、急診業務、門診診療、住院診療、血液透析、腹膜透析業務",
+    "funC_TYPE": "內科、外科、婦產科、骨科、泌尿科、耳鼻喉科、眼科、皮膚科、神經科、精神科、復健科、急診醫學科、口腔顎面外科、家庭牙醫科、麻醉科、核子醫學科、放射腫瘤科、放射診斷科、解剖病理科、臨床病理科",
+    "srV_INFO": {
+        "srv_Time": [
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "61",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "71",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "62",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "72",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "63",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "73",
+                    "hospName": ""
+                }
+            ]
+        ],
+        "srv_Date": "113\/05\/01",
+        "srv_Memo": null
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "113\/05\/04、113\/05\/05、113\/05\/11、113\/05\/12、113\/05\/18、113\/05\/19、113\/05\/25、113\/05\/26",
+    "offdaystr": "113-05-04、113-05-05、113-05-11、113-05-12、113-05-18、113-05-19、113-05-25、113-05-26",
+    "plans": "C型肝炎全口服新藥健保給付執行計畫、乳房攝影醫療機構認證院所、子宮頸細胞病理檢驗院所、安寧共同照護試辦方案、提升醫院用藥安全與品質方案、末期腎臟病前期（Pre-ESRD）之病人照護與衛教計畫、牙周病統合治療方案、牙醫門診加強感染管制實施方案、牙醫門診總額特殊醫療服務計畫、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病、視訊診療",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 100元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費 250元。",
+        "feE_REMARK_NAME": "醫事機構備註： - "
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [
+        {
+            "hosP_ID": "0401020013",
+            "hosP_REG": "X",
+            "beD_LINK": "請點選",
+            "beD_HTTP": "https:\/\/www.ntucc.gov.tw\/ntucc\/Fpage.action?muid=76&fid=187"
+        }
+    ],
+    "hosP_FLU": "是",
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "臺北業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=0401020013",
+    "hosP_TYPE_NAME": "醫院",
+    "prE_SRV_LIST": "成人預防保健、婦女子宮頸抹片檢查、婦女乳房檢查、口腔黏膜檢查、定量免疫法糞便潛血檢查、胸部低劑量電腦斷層檢查",
+    "video_data": [
+        {
+            "vedioy": "是",
+            "codE_CNAME": "02-23220321",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 121.543915,
+    "latitude": 25.014496
+}

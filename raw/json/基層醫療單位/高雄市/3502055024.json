@@ -1,0 +1,185 @@
+{
+    "hosP_NAME": "蔡智禮診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "07-3225728",
+    "hosP_ADDR": "高雄市三民區北平一街１３２號",
+    "hosP_ID": "3502055024",
+    "areA_TEL": "0975-295-561",
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "無",
+    "nonE_OBS_MEMO": "（無提供無障礙服務）",
+    "srV_LIST": "門診診療",
+    "funC_TYPE": "內科",
+    "srV_INFO": {
+        "srv_Time": [
+            [
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "61",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "71",
+                    "hospName": null
+                }
+            ],
+            [
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "62",
+                    "hospName": null
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "72",
+                    "hospName": null
+                }
+            ],
+            [
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "63",
+                    "hospName": null
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "73",
+                    "hospName": null
+                }
+            ]
+        ],
+        "srv_Date": "113\/03\/29",
+        "srv_Memo": "上午8:30-1130下午1530-1800晚上1830-2100"
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "",
+    "offdaystr": "",
+    "plans": "家庭醫師整合性照護計畫、氣喘醫療給付改善方案",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 150元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註：上午830-1130下午1530-1800 晚上1830-2100"
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "高屏業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3502055024",
+    "hosP_TYPE_NAME": "一般診所（醫務室）",
+    "prE_SRV_LIST": "成人預防保健、定量免疫法糞便潛血檢查",
+    "video_data": [
+        {
+            "vedioy": "否",
+            "codE_CNAME": "-",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 120.30505,
+    "latitude": 22.65021
+}

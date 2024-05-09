@@ -1,0 +1,198 @@
+{
+    "hosP_NAME": "三軍總醫院基隆分院附設民眾診療服務處",
+    "hosP_CNT_TYPE": "地區醫院",
+    "hosptel": "02-24633330",
+    "hosP_ADDR": "基隆市中正區正榮街１００號，仁愛區孝二路３９號２樓",
+    "hosP_ID": "0511040010",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [
+        {
+            "hosP_ID": "RA10116001",
+            "hosP_GROUP_NAME": "臺北榮總與社區診所雙向轉診團隊",
+            "suP_HOSP_NAME": "臺北榮總與社區診所雙向轉診團隊\/臺北榮民總醫院"
+        }
+    ],
+    "nonE_OBS": "無障礙通路、提供不同障別溝通服務",
+    "nonE_OBS_MEMO": "",
+    "srV_LIST": "復健－物理治療業務、復健－職能治療業務、急診業務、門診診療、住院診療、血液透析、分娩",
+    "funC_TYPE": "內科、外科、兒科、婦產科、骨科、泌尿科、精神科、復健科、牙科、麻醉科、放射診斷科",
+    "srV_INFO": {
+        "srv_Time": [
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "61",
+                    "hospName": "急診"
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "71",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "62",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "72",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "63",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "73",
+                    "hospName": ""
+                }
+            ]
+        ],
+        "srv_Date": "113\/03\/18",
+        "srv_Memo": null
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "",
+    "offdaystr": "",
+    "plans": "B、C肝個案追蹤醫療給付改善方案、C型肝炎全口服新藥健保給付執行計畫、乳房攝影醫療機構認證院所、兒童衛教指導服務方案、呼吸器依賴患者整合性照護試辦計畫、孕婦乙型鏈球菌篩檢補助服務方案、末期腎臟病前期（Pre-ESRD）之病人照護與衛教計畫、氣喘醫療給付改善方案、牙醫門診加強感染管制實施方案、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病合併初期慢性腎臟病",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 100元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費 200元。",
+        "feE_REMARK_NAME": "醫事機構備註： - "
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [
+        {
+            "hosP_ID": "0511040010",
+            "hosP_REG": "X",
+            "beD_LINK": "請點選",
+            "beD_HTTP": "https:\/\/wwwv.tsgh.ndmctsgh.edu.tw\/unit\/50000\/16484"
+        }
+    ],
+    "hosP_FLU": "是",
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "臺北業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=0511040010",
+    "hosP_TYPE_NAME": "綜合醫院",
+    "prE_SRV_LIST": "兒童預防保健、成人預防保健、婦女子宮頸抹片檢查、孕婦產檢、兒童牙齒預防保健、婦女乳房檢查、口腔黏膜檢查、定量免疫法糞便潛血檢查",
+    "video_data": [
+        {
+            "vedioy": "否",
+            "codE_CNAME": "-",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 121.76426,
+    "latitude": 25.145105
+}

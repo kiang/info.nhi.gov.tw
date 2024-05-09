@@ -1,0 +1,185 @@
+{
+    "hosP_NAME": "彭內科診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "02-23675690",
+    "hosP_ADDR": "臺北市中正區廈門街３５號",
+    "hosP_ID": "3501181981",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "無",
+    "nonE_OBS_MEMO": "（無提供無障礙服務）",
+    "srV_LIST": "門診診療",
+    "funC_TYPE": "內科",
+    "srV_INFO": {
+        "srv_Time": [
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "61",
+                    "hospName": null
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "71",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "62",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "72",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "63",
+                    "hospName": null
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "73",
+                    "hospName": ""
+                }
+            ]
+        ],
+        "srv_Date": "113\/04\/29",
+        "srv_Memo": null
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "113\/05\/01、113\/05\/02、113\/05\/03、113\/05\/04、113\/05\/06、113\/05\/07、113\/05\/08、113\/05\/09、113\/05\/10、113\/05\/11、113\/05\/13、113\/05\/14、113\/05\/15、113\/05\/16、113\/05\/17、113\/05\/18、113\/05\/20、113\/05\/21、113\/05\/22、113\/05\/23、113\/05\/24、113\/05\/25、113\/05\/27、113\/05\/28、113\/05\/29、113\/05\/30、113\/05\/31",
+    "offdaystr": "113-05-01、113-05-02、113-05-03、113-05-04、113-05-06、113-05-07、113-05-08、113-05-09、113-05-10、113-05-11、113-05-13、113-05-14、113-05-15、113-05-16、113-05-17、113-05-18、113-05-20、113-05-21、113-05-22、113-05-23、113-05-24、113-05-25、113-05-27、113-05-28、113-05-29、113-05-30、113-05-31",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 100元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費 0元。",
+        "feE_REMARK_NAME": "醫事機構備註： - "
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "臺北業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3501181981",
+    "hosP_TYPE_NAME": "專科診所",
+    "prE_SRV_LIST": "成人預防保健",
+    "video_data": [
+        {
+            "vedioy": "否",
+            "codE_CNAME": "-",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 121.517784,
+    "latitude": 25.02612
+}

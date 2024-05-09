@@ -1,0 +1,52 @@
+{
+    "hosP_NAME": "全康醫事檢驗所",
+    "hosP_CNT_TYPE": "醫事檢驗機構",
+    "hosptel": "02-27949819",
+    "hosP_ADDR": "臺北市內湖區內湖路２段３６３號",
+    "hosP_ID": "9401110208",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "-",
+    "funC_TYPE": "-",
+    "srV_INFO": {
+        "srv_Time": null,
+        "srv_Date": null,
+        "srv_Memo": null
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "",
+    "offdaystr": "",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "X",
+        "regisT_FEE_NAME": "門診掛號費：院所未提供資料。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - "
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "臺北業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=9401110208",
+    "hosP_TYPE_NAME": "醫事檢驗所",
+    "prE_SRV_LIST": "成人預防保健",
+    "video_data": [
+        {
+            "vedioy": "否",
+            "codE_CNAME": "-",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 121.5923,
+    "latitude": 25.083767
+}

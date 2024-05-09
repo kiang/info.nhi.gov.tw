@@ -1,0 +1,213 @@
+{
+    "hosP_NAME": "龍潭敏盛醫院",
+    "hosP_CNT_TYPE": "地區醫院",
+    "hosptel": "03-4794151",
+    "hosP_ADDR": "桃園市龍潭區中豐路１６８號",
+    "hosP_ID": "1532091081",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [
+        {
+            "hosP_ID": "RA20000013",
+            "hosP_GROUP_NAME": "敏盛綜合醫院雁行團隊",
+            "suP_HOSP_NAME": "敏盛綜合醫院雁行團隊\/敏盛綜合醫院"
+        },
+        {
+            "hosP_ID": "RA20000017",
+            "hosP_GROUP_NAME": "林口長庚紀念醫院雁行團隊",
+            "suP_HOSP_NAME": "林口長庚紀念醫院雁行團隊\/長庚醫療財團法人林口長庚紀念醫院"
+        },
+        {
+            "hosP_ID": "RA20000022",
+            "hosP_GROUP_NAME": "國軍桃園總醫院雁行團隊",
+            "suP_HOSP_NAME": "國軍桃園總醫院雁行團隊\/國軍桃園總醫院附設民眾診療服務處"
+        },
+        {
+            "hosP_ID": "RA20000023",
+            "hosP_GROUP_NAME": "臺大新竹醫院雁行團隊",
+            "suP_HOSP_NAME": "臺大新竹醫院雁行團隊\/國立臺灣大學醫學院附設醫院新竹臺大分院新竹醫院"
+        }
+    ],
+    "nonE_OBS": "提供不同障別溝通服務、設置無障礙服務窗口",
+    "nonE_OBS_MEMO": "",
+    "srV_LIST": "復健－物理治療業務、復健－職能治療業務、復健－聽力語言治療業務、急診業務、門診診療、住院診療、血液透析、醫事放射業務、醫事檢驗業務",
+    "funC_TYPE": "家醫科、內科、外科、婦產科、泌尿科、神經科、復健科、放射腫瘤科、放射診斷科",
+    "srV_INFO": {
+        "srv_Time": [
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "61",
+                    "hospName": null
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "71",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "62",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "72",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "63",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "73",
+                    "hospName": ""
+                }
+            ]
+        ],
+        "srv_Date": "113\/04\/02",
+        "srv_Memo": "緊急門診時段周一至周五09:00~夜間08:30 （連續假期開診狀況以醫院公告為準）"
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "",
+    "offdaystr": "",
+    "plans": "B、C肝個案追蹤醫療給付改善方案、呼吸器依賴患者整合性照護試辦計畫、孕婦乙型鏈球菌篩檢補助服務方案、居家醫療整合照護計畫、<a onClick='toINAE1070S02()' >急性後期整合照護計畫<\/a>、慢性阻塞性肺病醫療給付改善方案、提升醫院用藥安全與品質方案、末期腎臟病前期（Pre-ESRD）之病人照護與衛教計畫、氣喘醫療給付改善方案、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病合併初期慢性腎臟病、視訊診療、配合衛生局辦理整合式篩檢院所",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 150元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - "
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [
+        {
+            "hosP_ID": "1532091081",
+            "hosP_REG": "X",
+            "beD_LINK": "請點選",
+            "beD_HTTP": "http:\/\/www.e-ms.com.tw\/Information\/BedInformation.aspx?SelectHospital=MSL"
+        }
+    ],
+    "hosP_FLU": "是",
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "北區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=1532091081",
+    "hosP_TYPE_NAME": "醫院",
+    "prE_SRV_LIST": "成人預防保健、婦女子宮頸抹片檢查、口腔黏膜檢查、定量免疫法糞便潛血檢查",
+    "video_data": [
+        {
+            "vedioy": "是",
+            "codE_CNAME": "-",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 121.21386,
+    "latitude": 24.875063
+}

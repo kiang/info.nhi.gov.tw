@@ -1,0 +1,203 @@
+{
+    "hosP_NAME": "志誠醫院",
+    "hosP_CNT_TYPE": "地區醫院",
+    "hosptel": "06-2210423",
+    "hosP_ADDR": "臺南市北區公園路３１５之１號",
+    "hosP_ID": "1521040050",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [
+        {
+            "hosP_ID": "RA30000005",
+            "hosP_GROUP_NAME": "彰化基督教醫院合作聯盟",
+            "suP_HOSP_NAME": "彰化基督教醫院合作聯盟\/彰化基督教醫療財團法人彰化基督教醫院"
+        },
+        {
+            "hosP_ID": "RA40000042",
+            "hosP_GROUP_NAME": "奇美醫院-奇心協力醫聯盟",
+            "suP_HOSP_NAME": "奇美醫院-奇心協力醫聯盟\/奇美醫療財團法人奇美醫院"
+        }
+    ],
+    "nonE_OBS": "無障礙通路、提供不同障別溝通服務",
+    "nonE_OBS_MEMO": "",
+    "srV_LIST": "復健－語言治療業務、門診診療、住院診療",
+    "funC_TYPE": "耳鼻喉科",
+    "srV_INFO": {
+        "srv_Time": [
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "61",
+                    "hospName": "耳鼻喉科"
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "71",
+                    "hospName": "耳鼻喉科"
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "62",
+                    "hospName": "耳鼻喉科"
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "72",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "63",
+                    "hospName": "耳鼻喉科"
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "73",
+                    "hospName": ""
+                }
+            ]
+        ],
+        "srv_Date": "113\/05\/02",
+        "srv_Memo": null
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "",
+    "offdaystr": "",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 150元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註：無急診"
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [
+        {
+            "hosP_ID": "1521040050",
+            "hosP_REG": "X",
+            "beD_LINK": "請點選",
+            "beD_HTTP": "http:\/\/www.c-c-chen.com.tw\/news_detail.php?id=1"
+        }
+    ],
+    "hosP_FLU": "是",
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "南區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=1521040050",
+    "hosP_TYPE_NAME": "醫院",
+    "prE_SRV_LIST": "成人預防保健、口腔黏膜檢查、定量免疫法糞便潛血檢查",
+    "video_data": [
+        {
+            "vedioy": "否",
+            "codE_CNAME": "-",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 120.21001,
+    "latitude": 23.003601
+}

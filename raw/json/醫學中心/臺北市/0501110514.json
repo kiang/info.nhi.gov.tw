@@ -1,0 +1,218 @@
+{
+    "hosP_NAME": "三軍總醫院附設民眾診療服務處",
+    "hosP_CNT_TYPE": "醫學中心",
+    "hosptel": "02-87923311",
+    "hosP_ADDR": "臺北市內湖區成功路２段３２５號",
+    "hosP_ID": "0501110514",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": "重度級",
+    "hosP_ALLIANCE": [
+        {
+            "hosP_ID": "RA10000072",
+            "hosP_GROUP_NAME": "里仁專案(國泰醫院)",
+            "suP_HOSP_NAME": "里仁專案(國泰醫院)\/國泰醫療財團法人國泰綜合醫院"
+        },
+        {
+            "hosP_ID": "RA10109001",
+            "hosP_GROUP_NAME": "台北藍鵲共好團隊",
+            "suP_HOSP_NAME": "台北藍鵲共好團隊\/臺北市立聯合醫院"
+        },
+        {
+            "hosP_ID": "RA10111001",
+            "hosP_GROUP_NAME": "三軍總醫院策略聯盟",
+            "suP_HOSP_NAME": "三軍總醫院策略聯盟\/三軍總醫院附設民眾診療服務處"
+        },
+        {
+            "hosP_ID": "RA13104001",
+            "hosP_GROUP_NAME": "雙和醫院分級醫療雙向轉診共好合作聯盟",
+            "suP_HOSP_NAME": "雙和醫院分級醫療雙向轉診共好合作聯盟\/衛生福利部雙和醫院〈委託臺北醫學大學興建經營〉"
+        },
+        {
+            "hosP_ID": "RA13105001",
+            "hosP_GROUP_NAME": "北慈合心醫療照護團隊",
+            "suP_HOSP_NAME": "北慈合心醫療照護團隊\/佛教慈濟醫療財團法人台北慈濟醫院"
+        }
+    ],
+    "nonE_OBS": "無障礙通路、提供不同障別溝通服務、設置無障礙服務窗口",
+    "nonE_OBS_MEMO": "",
+    "srV_LIST": "復健－物理治療業務、復健－職能治療業務、住院安寧療護、安寧居家療護(甲類)、復健－語言治療業務、急診業務、門診診療、住院診療、血液透析、分娩、精神病患者居家照護、精神科日間住院治療、結核病",
+    "funC_TYPE": "不分科、家醫科、內科、外科、兒科、婦產科、骨科、神經外科、泌尿科、耳鼻喉科、眼科、皮膚科、神經科、精神科、復健科、整形外科、職業醫學科、急診醫學科、牙科、牙體復形科、牙髓病科、牙周病科、贋復補綴牙科、齒顎矯正科、口腔顎面外科、口腔病理科、家庭牙醫科、特殊需求者口腔醫學科、中醫一般科、麻醉科、核子醫學科、放射腫瘤科、放射診斷科、解剖病理科、臨床病理科",
+    "srV_INFO": {
+        "srv_Time": [
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "61",
+                    "hospName": null
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "71",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "62",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "72",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "63",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "73",
+                    "hospName": ""
+                }
+            ]
+        ],
+        "srv_Date": "113\/05\/02",
+        "srv_Memo": "急診24小時服務"
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "113\/06\/10",
+    "offdaystr": "113-06-10",
+    "plans": "0-6歲嚴重齲齒兒童口腔健康照護計畫、B、C肝個案追蹤醫療給付改善方案、C型肝炎全口服新藥健保給付執行計畫、中醫慢性腎臟病門診加強照護計畫、中醫癌症患者加強照護整合方案─特定癌症患者中醫門診加強照護計畫、中醫癌症患者加強照護整合方案─癌症患者西醫住院中醫輔助醫療計畫、乳房攝影醫療機構認證院所、兒童衛教指導服務方案、呼吸器依賴患者整合性照護試辦計畫、子宮頸細胞病理檢驗院所、孕婦乙型鏈球菌篩檢補助服務方案、孕產婦全程照護醫療給付改善方案、安寧共同照護試辦方案、居家醫療整合照護計畫、居家醫療整合照護計畫-居家中醫醫療服務、思覺失調症醫療給付改善方案、<a onClick='toINAE1070S02()' >急性後期整合照護計畫<\/a>、慢性阻塞性肺病醫療給付改善方案、提升醫院用藥安全與品質方案、新生兒聽力篩檢補助服務方案、末期腎臟病前期（Pre-ESRD）之病人照護與衛教計畫、氣喘醫療給付改善方案、牙周病統合治療方案、牙醫門診加強感染管制實施方案、牙醫門診總額特殊醫療服務計畫、精神疾病嚴重病人強制住院醫療機構、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病合併初期慢性腎臟病、視訊診療、遠距醫療給付計畫、醫院以病人為中心門診整合照護計畫",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 100元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費 200元。",
+        "feE_REMARK_NAME": "醫事機構備註：急診24小時服務"
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [
+        {
+            "hosP_ID": "0501110514",
+            "hosP_REG": "X",
+            "beD_LINK": "每日病床明細表",
+            "beD_HTTP": "https:\/\/www1.ndmctsgh.edu.tw\/tsghnhibed\/"
+        }
+    ],
+    "hosP_FLU": "是",
+    "chilD24": "是",
+    "conT_E_DATE": "-",
+    "brancH_CODE": "臺北業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=0501110514",
+    "hosP_TYPE_NAME": "綜合醫院",
+    "prE_SRV_LIST": "兒童預防保健、成人預防保健、婦女子宮頸抹片檢查、孕婦產檢、兒童牙齒預防保健、口腔黏膜檢查、定量免疫法糞便潛血檢查、胸部低劑量電腦斷層檢查",
+    "video_data": [
+        {
+            "vedioy": "是",
+            "codE_CNAME": "02-8792-7222",
+            "codE_ENAME": "提供兒科視訊診療",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 121.59198,
+    "latitude": 25.0718
+}

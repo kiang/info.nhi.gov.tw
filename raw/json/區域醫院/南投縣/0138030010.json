@@ -1,0 +1,208 @@
+{
+    "hosP_NAME": "衛生福利部草屯療養院",
+    "hosP_CNT_TYPE": "區域醫院",
+    "hosptel": "049-2550800",
+    "hosP_ADDR": "南投縣草屯鎮玉屏路１６１號",
+    "hosP_ID": "0138030010",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [
+        {
+            "hosP_ID": "RA30000002",
+            "hosP_GROUP_NAME": "中國附醫合作聯盟",
+            "suP_HOSP_NAME": "中國附醫合作聯盟\/中國醫藥大學附設醫院"
+        },
+        {
+            "hosP_ID": "RA30000005",
+            "hosP_GROUP_NAME": "彰化基督教醫院合作聯盟",
+            "suP_HOSP_NAME": "彰化基督教醫院合作聯盟\/彰化基督教醫療財團法人彰化基督教醫院"
+        },
+        {
+            "hosP_ID": "RA30000011",
+            "hosP_GROUP_NAME": "草屯療養院合作聯盟",
+            "suP_HOSP_NAME": "草屯療養院合作聯盟\/衛生福利部草屯療養院"
+        }
+    ],
+    "nonE_OBS": "無障礙通路、提供不同障別溝通服務、設置無障礙服務窗口",
+    "nonE_OBS_MEMO": "",
+    "srV_LIST": "急診業務、門診診療、住院診療、精神病患者居家照護、精神科日間住院治療",
+    "funC_TYPE": "內科、精神科",
+    "srV_INFO": {
+        "srv_Time": [
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "61",
+                    "hospName": null
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "71",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "62",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "72",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "63",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "73",
+                    "hospName": ""
+                }
+            ]
+        ],
+        "srv_Date": "113\/05\/01",
+        "srv_Memo": null
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "",
+    "offdaystr": "",
+    "plans": "山地離島地區醫療給付效益提昇計畫、思覺失調症醫療給付改善方案、提升醫院用藥安全與品質方案、精神疾病嚴重病人強制住院醫療機構、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病合併初期慢性腎臟病、視訊診療",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 50元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費 150元。",
+        "feE_REMARK_NAME": "醫事機構備註： - "
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [
+        {
+            "hosP_ID": "0138030010",
+            "hosP_REG": "X",
+            "beD_LINK": "病床設置一覽表",
+            "beD_HTTP": "https:\/\/www.ttpc.mohw.gov.tw\/?aid=502&iid=8&pid=0"
+        }
+    ],
+    "hosP_FLU": "是",
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "中區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=0138030010",
+    "hosP_TYPE_NAME": "精神科醫院",
+    "prE_SRV_LIST": "成人預防保健",
+    "video_data": [
+        {
+            "vedioy": "是",
+            "codE_CNAME": "049-2550800轉1461",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 120.70453,
+    "latitude": 23.990395
+}

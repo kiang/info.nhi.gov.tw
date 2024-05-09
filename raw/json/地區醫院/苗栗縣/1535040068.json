@@ -1,0 +1,218 @@
+{
+    "hosP_NAME": "慈祐醫院",
+    "hosP_CNT_TYPE": "地區醫院",
+    "hosptel": "037-476589",
+    "hosP_ADDR": "苗栗縣竹南鎮民治街１７號",
+    "hosP_ID": "1535040068",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [
+        {
+            "hosP_ID": "RA20000015",
+            "hosP_GROUP_NAME": "新竹馬偕紀念醫院雁行團隊",
+            "suP_HOSP_NAME": "新竹馬偕紀念醫院雁行團隊\/台灣基督長老教會馬偕醫療財團法人新竹馬偕紀念醫院"
+        },
+        {
+            "hosP_ID": "RA20000016",
+            "hosP_GROUP_NAME": "為恭紀念醫院雁行團隊",
+            "suP_HOSP_NAME": "為恭紀念醫院雁行團隊\/為恭醫療財團法人為恭紀念醫院"
+        },
+        {
+            "hosP_ID": "RA20000017",
+            "hosP_GROUP_NAME": "林口長庚紀念醫院雁行團隊",
+            "suP_HOSP_NAME": "林口長庚紀念醫院雁行團隊\/長庚醫療財團法人林口長庚紀念醫院"
+        },
+        {
+            "hosP_ID": "RA20000023",
+            "hosP_GROUP_NAME": "臺大新竹醫院雁行團隊",
+            "suP_HOSP_NAME": "臺大新竹醫院雁行團隊\/國立臺灣大學醫學院附設醫院新竹臺大分院新竹醫院"
+        },
+        {
+            "hosP_ID": "RA20000024",
+            "hosP_GROUP_NAME": "苗栗醫院雁行團隊",
+            "suP_HOSP_NAME": "苗栗醫院雁行團隊\/衛生福利部苗栗醫院"
+        }
+    ],
+    "nonE_OBS": "無障礙通路、設置無障礙服務窗口",
+    "nonE_OBS_MEMO": "",
+    "srV_LIST": "安寧居家療護(乙類)、復健－物理治療業務、復健－職能治療業務、急診業務、門診診療、住院診療、血液透析",
+    "funC_TYPE": "內科、外科、兒科、骨科、中醫一般科",
+    "srV_INFO": {
+        "srv_Time": [
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "61",
+                    "hospName": "中醫一般科,兒科,內科,外科,急診"
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "71",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "62",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "72",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "63",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "73",
+                    "hospName": ""
+                }
+            ]
+        ],
+        "srv_Date": "113\/05\/02",
+        "srv_Memo": null
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "113\/05\/04",
+    "offdaystr": "113-05-04",
+    "plans": "C型肝炎全口服新藥健保給付執行計畫、中醫門診總額醫療資源不足地區改善方案(巡迴)、乳房攝影醫療機構認證院所、提升醫院用藥安全與品質方案、氣喘醫療給付改善方案、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病合併初期慢性腎臟病、視訊診療",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 150元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費 250元。",
+        "feE_REMARK_NAME": "醫事機構備註： - "
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [
+        {
+            "hosP_ID": "1535040068",
+            "hosP_REG": "X",
+            "beD_LINK": "請點選",
+            "beD_HTTP": "http:\/\/www.tyh.org.tw\/TYHweb\/Dynamicbed.html"
+        }
+    ],
+    "hosP_FLU": "是",
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "北區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=1535040068",
+    "hosP_TYPE_NAME": "醫院",
+    "prE_SRV_LIST": "兒童預防保健、成人預防保健、婦女乳房檢查、口腔黏膜檢查、定量免疫法糞便潛血檢查",
+    "video_data": [
+        {
+            "vedioy": "是",
+            "codE_CNAME": "037-7476589",
+            "codE_ENAME": "提供兒科視訊診療",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 120.87864,
+    "latitude": 24.68477
+}

@@ -1,0 +1,198 @@
+{
+    "hosP_NAME": "彰化基督教醫療財團法人彰化基督教兒童醫院",
+    "hosP_CNT_TYPE": "醫學中心",
+    "hosptel": "04-7238595",
+    "hosP_ADDR": "彰化縣彰化市光南里１３鄰旭光路３２０號、南校街１３５號",
+    "hosP_ID": "1137010042",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [
+        {
+            "hosP_ID": "RA30000005",
+            "hosP_GROUP_NAME": "彰化基督教醫院合作聯盟",
+            "suP_HOSP_NAME": "彰化基督教醫院合作聯盟\/彰化基督教醫療財團法人彰化基督教醫院"
+        }
+    ],
+    "nonE_OBS": "無障礙通路、提供不同障別溝通服務、設置無障礙服務窗口",
+    "nonE_OBS_MEMO": "",
+    "srV_LIST": "復健－物理治療業務、復健－職能治療業務、復健－語言治療業務、門診診療、住院診療",
+    "funC_TYPE": "外科、兒科、骨科、神經外科、泌尿科、耳鼻喉科、皮膚科、精神科、復健科、牙科、兒童牙科、麻醉科、放射線科",
+    "srV_INFO": {
+        "srv_Time": [
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "61",
+                    "hospName": null
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "71",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "62",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "72",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "63",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "73",
+                    "hospName": ""
+                }
+            ]
+        ],
+        "srv_Date": "113\/05\/01",
+        "srv_Memo": "星期一至星期日提供24小時急診"
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "113\/06\/10",
+    "offdaystr": "113-06-10",
+    "plans": "B、C肝個案追蹤醫療給付改善方案、C型肝炎全口服新藥健保給付執行計畫、兒童衛教指導服務方案、提升醫院用藥安全與品質方案、氣喘醫療給付改善方案、牙周病統合治療方案、牙醫門診總額特殊醫療服務計畫、糖尿病及初期慢性腎臟病照護整合方案─糖尿病",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 120元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費 250元。",
+        "feE_REMARK_NAME": "醫事機構備註：夜診掛號費130元;初診掛號費150元;低收入戶減免掛號費"
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [
+        {
+            "hosP_ID": "1137010042",
+            "hosP_REG": "X",
+            "beD_LINK": "請點選",
+            "beD_HTTP": "http:\/\/www.cch.org.tw\/news\/CCH_bed.aspx"
+        }
+    ],
+    "hosP_FLU": null,
+    "chilD24": "是",
+    "conT_E_DATE": "-",
+    "brancH_CODE": "中區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=1137010042",
+    "hosP_TYPE_NAME": "綜合醫院",
+    "prE_SRV_LIST": "兒童預防保健",
+    "video_data": [
+        {
+            "vedioy": "否",
+            "codE_CNAME": "-",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 120.54354,
+    "latitude": 24.071173
+}

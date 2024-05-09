@@ -1,0 +1,208 @@
+{
+    "hosP_NAME": "茂隆骨科醫院",
+    "hosP_CNT_TYPE": "地區醫院",
+    "hosptel": "08-7801915",
+    "hosP_ADDR": "屏東縣潮州鎮朝昇路３２２號",
+    "hosP_ID": "1543020105",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [
+        {
+            "hosP_ID": "RA30000005",
+            "hosP_GROUP_NAME": "彰化基督教醫院合作聯盟",
+            "suP_HOSP_NAME": "彰化基督教醫院合作聯盟\/彰化基督教醫療財團法人彰化基督教醫院"
+        },
+        {
+            "hosP_ID": "RA50000061",
+            "hosP_GROUP_NAME": "高長_高雄長庚醫師聯誼會",
+            "suP_HOSP_NAME": "高長_高雄長庚醫師聯誼會\/長庚醫療財團法人高雄長庚紀念醫院"
+        },
+        {
+            "hosP_ID": "RA50000065",
+            "hosP_GROUP_NAME": "屏基基層醫療分級醫療策略聯盟",
+            "suP_HOSP_NAME": "屏基基層醫療分級醫療策略聯盟\/屏基醫療財團法人屏東基督教醫院"
+        }
+    ],
+    "nonE_OBS": "無障礙通路、設置無障礙服務窗口",
+    "nonE_OBS_MEMO": "",
+    "srV_LIST": "復健－物理治療業務、急診業務、門診診療、住院診療",
+    "funC_TYPE": "骨科、復健科、麻醉科",
+    "srV_INFO": {
+        "srv_Time": [
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "61",
+                    "hospName": "復健科,急診,骨科"
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "71",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "62",
+                    "hospName": "復健科,骨科"
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "72",
+                    "hospName": ""
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "63",
+                    "hospName": ""
+                },
+                {
+                    "yn": "Y",
+                    "urlYN": "V",
+                    "tagw": "73",
+                    "hospName": ""
+                }
+            ]
+        ],
+        "srv_Date": "113\/05\/01",
+        "srv_Memo": "週六門診:只有上午與下午診另週日全天休診!＜週六17:00至24:00止非門診時段及週日07:00至24:00非門診時段只受理急診服務＞"
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "",
+    "offdaystr": "",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 150元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費 250元。",
+        "feE_REMARK_NAME": "醫事機構備註：福保(低收入戶者)免收掛號費"
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [
+        {
+            "hosP_ID": "1543020105",
+            "hosP_REG": "X",
+            "beD_LINK": "茂隆骨科醫院 ",
+            "beD_HTTP": "http:\/\/www.mlbone.com.tw\/news_info.asp?id=582"
+        }
+    ],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "高屏業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=1543020105",
+    "hosP_TYPE_NAME": "醫院",
+    "prE_SRV_LIST": "成人預防保健",
+    "video_data": [
+        {
+            "vedioy": "否",
+            "codE_CNAME": "-",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 120.53921,
+    "latitude": 22.55619
+}

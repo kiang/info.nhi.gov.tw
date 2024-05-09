@@ -1,0 +1,52 @@
+{
+    "hosP_NAME": "黃助產所",
+    "hosP_CNT_TYPE": "助產所",
+    "hosptel": "06-2287803",
+    "hosP_ADDR": "臺南市中西區藥王里民族路三段２３９號１樓",
+    "hosP_ID": "HY05340013",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "分娩",
+    "funC_TYPE": "-",
+    "srV_INFO": {
+        "srv_Time": null,
+        "srv_Date": null,
+        "srv_Memo": null
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "",
+    "offdaystr": "",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "X",
+        "regisT_FEE_NAME": "門診掛號費：院所未提供資料。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - "
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "南區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=HY05340013",
+    "hosP_TYPE_NAME": "助產所",
+    "prE_SRV_LIST": "婦女子宮頸抹片檢查、孕婦產檢",
+    "video_data": [
+        {
+            "vedioy": "否",
+            "codE_CNAME": "-",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 120.193535,
+    "latitude": 22.999565
+}

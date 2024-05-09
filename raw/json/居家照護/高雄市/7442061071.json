@@ -1,0 +1,52 @@
+{
+    "hosP_NAME": "恆康居家護理所",
+    "hosP_CNT_TYPE": "居家照護",
+    "hosptel": "07-6411185",
+    "hosP_ADDR": "高雄市大寮區昭明里鳳林路三路３８２巷３７號１樓",
+    "hosP_ID": "7442061071",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "居家照護",
+    "funC_TYPE": "-",
+    "srV_INFO": {
+        "srv_Time": null,
+        "srv_Date": null,
+        "srv_Memo": null
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "",
+    "offdaystr": "",
+    "plans": "居家醫療整合照護計畫",
+    "fee": {
+        "cnT_TYPE": "X",
+        "regisT_FEE_NAME": "門診掛號費：院所未提供資料。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - "
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "高屏業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=7442061071",
+    "hosP_TYPE_NAME": "居家護理機構",
+    "prE_SRV_LIST": "-",
+    "video_data": [
+        {
+            "vedioy": "否",
+            "codE_CNAME": "-",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 120.40922,
+    "latitude": 22.543676
+}

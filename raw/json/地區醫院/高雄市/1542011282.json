@@ -1,0 +1,203 @@
+{
+    "hosP_NAME": "杏和醫院",
+    "hosP_CNT_TYPE": "地區醫院",
+    "hosptel": "07-7613111",
+    "hosP_ADDR": "高雄市鳳山區五甲二路３８５號、３８７號、３８９號",
+    "hosP_ID": "1542011282",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [
+        {
+            "hosP_ID": "RA50000059",
+            "hosP_GROUP_NAME": "高榮_支援醫院合作團隊",
+            "suP_HOSP_NAME": "高榮_支援醫院合作團隊\/高雄榮民總醫院"
+        },
+        {
+            "hosP_ID": "RA50000075",
+            "hosP_GROUP_NAME": "高總_鳳翔區域聯盟",
+            "suP_HOSP_NAME": "高總_鳳翔區域聯盟\/國軍高雄總醫院附設民眾診療服務處"
+        }
+    ],
+    "nonE_OBS": "無障礙通路、提供不同障別溝通服務、設置無障礙服務窗口",
+    "nonE_OBS_MEMO": "",
+    "srV_LIST": "復健－物理治療業務、復健－職能治療業務、復健－語言治療業務、急診業務、門診診療、住院診療",
+    "funC_TYPE": "家醫科、內科、外科、婦產科、骨科、泌尿科、復健科、麻醉科、放射診斷科",
+    "srV_INFO": {
+        "srv_Time": [
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "61",
+                    "hospName": null
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "71",
+                    "hospName": null
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "62",
+                    "hospName": null
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "72",
+                    "hospName": null
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "63",
+                    "hospName": null
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "73",
+                    "hospName": null
+                }
+            ]
+        ],
+        "srv_Date": "113\/05\/03",
+        "srv_Memo": "急救責任醫院24小時急診服務,春節期間全年無休"
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "",
+    "offdaystr": "",
+    "plans": "B、C肝個案追蹤醫療給付改善方案、C型肝炎全口服新藥健保給付執行計畫、孕婦乙型鏈球菌篩檢補助服務方案、居家醫療整合照護計畫、<a onClick='toINAE1070S02()' >急性後期整合照護計畫<\/a>、氣喘醫療給付改善方案、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病合併初期慢性腎臟病、醫院以病人為中心門診整合照護計畫",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 70元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費 150元。",
+        "feE_REMARK_NAME": "醫事機構備註：65歲以上、榮民、福保、殘障-0"
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [
+        {
+            "hosP_ID": "1542011282",
+            "hosP_REG": "X",
+            "beD_LINK": "請點選",
+            "beD_HTTP": "http:\/\/shinghou.com.tw\/news_detail.php?id=7"
+        }
+    ],
+    "hosP_FLU": "是",
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "高屏業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=1542011282",
+    "hosP_TYPE_NAME": "醫院",
+    "prE_SRV_LIST": "胸部低劑量電腦斷層檢查",
+    "video_data": [
+        {
+            "vedioy": "否",
+            "codE_CNAME": "-",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 120.33567,
+    "latitude": 22.597677
+}

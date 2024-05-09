@@ -1,0 +1,213 @@
+{
+    "hosP_NAME": "大東醫院",
+    "hosP_CNT_TYPE": "地區醫院",
+    "hosptel": "07-7463762",
+    "hosP_ADDR": "高雄市鳳山區三民里光遠路１７１－２號",
+    "hosP_ID": "1542010052",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [
+        {
+            "hosP_ID": "RA40000041",
+            "hosP_GROUP_NAME": "成大醫院-成杏醫聯盟",
+            "suP_HOSP_NAME": "成大醫院-成杏醫聯盟\/國立成功大學醫學院附設醫院"
+        },
+        {
+            "hosP_ID": "RA50000061",
+            "hosP_GROUP_NAME": "高長_高雄長庚醫師聯誼會",
+            "suP_HOSP_NAME": "高長_高雄長庚醫師聯誼會\/長庚醫療財團法人高雄長庚紀念醫院"
+        },
+        {
+            "hosP_ID": "RA50000065",
+            "hosP_GROUP_NAME": "屏基基層醫療分級醫療策略聯盟",
+            "suP_HOSP_NAME": "屏基基層醫療分級醫療策略聯盟\/屏基醫療財團法人屏東基督教醫院"
+        },
+        {
+            "hosP_ID": "RA50000075",
+            "hosP_GROUP_NAME": "高總_鳳翔區域聯盟",
+            "suP_HOSP_NAME": "高總_鳳翔區域聯盟\/國軍高雄總醫院附設民眾診療服務處"
+        }
+    ],
+    "nonE_OBS": "無",
+    "nonE_OBS_MEMO": "（無提供無障礙服務）",
+    "srV_LIST": "安寧居家療護(乙類)、復健－物理治療業務、急診業務、門診診療、住院診療",
+    "funC_TYPE": "家醫科、內科、外科、骨科",
+    "srV_INFO": {
+        "srv_Time": [
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "61",
+                    "hospName": "內科,外科,急診"
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "71",
+                    "hospName": "內科,外科,急診"
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "62",
+                    "hospName": "內科,外科"
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "72",
+                    "hospName": "內科,外科"
+                }
+            ],
+            [
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "X",
+                    "tagw": "",
+                    "hospName": ""
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "63",
+                    "hospName": "內科,外科"
+                },
+                {
+                    "yn": "N",
+                    "urlYN": "V",
+                    "tagw": "73",
+                    "hospName": "內科,外科"
+                }
+            ]
+        ],
+        "srv_Date": "113\/05\/02",
+        "srv_Memo": "1121231"
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "",
+    "offdaystr": "",
+    "plans": "呼吸器依賴患者整合性照護試辦計畫、氣喘醫療給付改善方案、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 100元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費 150元。",
+        "feE_REMARK_NAME": "醫事機構備註：門急診掛號費非固定不變"
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [
+        {
+            "hosP_ID": "1542010052",
+            "hosP_REG": "X",
+            "beD_LINK": "病床使用狀況表",
+            "beD_HTTP": "http:\/\/da-dong.com.tw\/information.html"
+        }
+    ],
+    "hosP_FLU": "是",
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "高屏業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=1542010052",
+    "hosP_TYPE_NAME": "醫院",
+    "prE_SRV_LIST": "兒童預防保健、成人預防保健、婦女子宮頸抹片檢查、孕婦產檢、口腔黏膜檢查、定量免疫法糞便潛血檢查",
+    "video_data": [
+        {
+            "vedioy": "否",
+            "codE_CNAME": "-",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 120.362015,
+    "latitude": 22.625359
+}
