@@ -1,0 +1,52 @@
+{
+    "hosP_NAME": "醫療財團法人南迴基金會附設居家護理所",
+    "hosP_CNT_TYPE": "居家照護",
+    "hosptel": "089-790250",
+    "hosP_ADDR": "臺東縣大武鄉大武村大武街１１４號２樓",
+    "hosP_ID": "7246050016",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "居家照護",
+    "funC_TYPE": "-",
+    "srV_INFO": {
+        "srv_Time": null,
+        "srv_Date": null,
+        "srv_Memo": null
+    },
+    "phonelongholiday": [],
+    "pclongholiday": [],
+    "offday": "",
+    "offdaystr": "",
+    "plans": "居家醫療整合照護計畫、醫療資源缺乏地區條件施行區域-減收20%部分",
+    "fee": {
+        "cnT_TYPE": "X",
+        "regisT_FEE_NAME": "門診掛號費：院所未提供資料。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - "
+    },
+    "hosP_PLAN": [],
+    "ch_HOSP_PLAN": [],
+    "hosp_dr": [],
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "東區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=7246050016",
+    "hosP_TYPE_NAME": "居家護理機構",
+    "prE_SRV_LIST": "-",
+    "video_data": [
+        {
+            "vedioy": "否",
+            "codE_CNAME": "-",
+            "codE_ENAME": "-",
+            "memo": null
+        }
+    ],
+    "holidaY_REMARK": "-",
+    "longitude": 120.90372,
+    "latitude": 22.356289
+}
