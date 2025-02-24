@@ -50,6 +50,29 @@
         {
             "type": "Feature",
             "properties": {
+                "id": "0401180023",
+                "name": "國立臺灣大學醫學院附設醫院兒童醫院",
+                "phone": "02-23123456",
+                "address": "臺北市中正區中山南路８號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "0",
+                "wait_icu": "0",
+                "date": "2025-02-24T15:30:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51875,
+                    25.044344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": "0434010518",
                 "name": "國立陽明交通大學附設醫院",
                 "phone": "03-9325192",
@@ -152,6 +175,29 @@
                 "wait_bed": "0",
                 "wait_general": "75",
                 "wait_icu": "6",
+                "date": "2025-02-24T15:30:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52256,
+                    25.058884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1101100020",
+                "name": "台灣基督長老教會馬偕醫療財團法人馬偕兒童醫院",
+                "phone": "02-25433535",
+                "address": "臺北市中山區中山北路２段９２號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": null,
+                "wait_bed": null,
+                "wait_general": null,
+                "wait_icu": null,
                 "date": "2025-02-24T15:30:18"
             },
             "geometry": {
@@ -303,6 +349,52 @@
         {
             "type": "Feature",
             "properties": {
+                "id": "1131130018",
+                "name": "新北市立土城醫院（委託長庚醫療財團法人興建經營）",
+                "phone": "02-22630588",
+                "address": "新北市土城區金城路２段６號",
+                "type": "區域醫院",
+                "inform": "Y",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "37",
+                "wait_icu": "1",
+                "date": "2025-02-24T15:30:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44873,
+                    24.976437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1134020019",
+                "name": "醫療財團法人羅許基金會羅東博愛醫院",
+                "phone": "03-9543131",
+                "address": "宜蘭縣羅東鎮南昌街８１、８３號及站前南路６１、６３號",
+                "type": "區域醫院",
+                "inform": "Y",
+                "wait_see": "0",
+                "wait_bed": "6",
+                "wait_general": "32",
+                "wait_icu": "0",
+                "date": "2025-02-24T15:30:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77313,
+                    24.671679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": "1231050017",
                 "name": "天主教耕莘醫療財團法人耕莘醫院",
                 "phone": "02-22193391",
@@ -395,6 +487,29 @@
         {
             "type": "Feature",
             "properties": {
+                "id": "1331160010",
+                "name": "輔仁大學學校財團法人輔仁大學附設醫院",
+                "phone": "02-85128888",
+                "address": "新北市泰山區貴子路６９號（地下４層、地上１至１３層、１５層）",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "5",
+                "wait_bed": "0",
+                "wait_general": "32",
+                "wait_icu": "4",
+                "date": "2025-02-24T15:30:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4308,
+                    25.039677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": "0132010014",
                 "name": "衛生福利部桃園醫院",
                 "phone": "03-3699721",
@@ -418,6 +533,52 @@
         {
             "type": "Feature",
             "properties": {
+                "id": "0412040012",
+                "name": "國立臺灣大學醫學院附設醫院新竹臺大分院新竹醫院",
+                "phone": "03-5326151",
+                "address": "新竹市北區金華里經國路一段442巷25號",
+                "type": "醫學中心",
+                "inform": "Y",
+                "wait_see": "1",
+                "wait_bed": "5",
+                "wait_general": "21",
+                "wait_icu": "1",
+                "date": "2025-02-24T15:30:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97992,
+                    24.816708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0933050018",
+                "name": "東元醫療社團法人東元綜合醫院",
+                "phone": "03-5527000",
+                "address": "新竹縣竹北市縣政二路６９號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "4",
+                "wait_icu": "0",
+                "date": "2025-02-24T15:30:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.012924,
+                    24.819769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": "1112010519",
                 "name": "台灣基督長老教會馬偕醫療財團法人新竹馬偕紀念醫院",
                 "phone": "03-6119595",
@@ -435,6 +596,29 @@
                 "coordinates": [
                     120.99078,
                     24.800087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1112010537",
+                "name": "新竹市立馬偕兒童醫院(委託台灣基督長老教會馬偕醫療財團法人興",
+                "phone": "03-5719999",
+                "address": "新竹市東區建功里建功二路２８號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "2",
+                "wait_icu": "0",
+                "date": "2025-02-24T15:30:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00293,
+                    24.79716
                 ]
             }
         },
@@ -579,6 +763,29 @@
         {
             "type": "Feature",
             "properties": {
+                "id": "0937010019",
+                "name": "秀傳醫療社團法人秀傳紀念醫院",
+                "phone": "04-7256166",
+                "address": "彰化縣彰化市南瑤里中山路１段５４２號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "8",
+                "wait_icu": "0",
+                "date": "2025-02-24T15:30:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.537506,
+                    24.064787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": "1136090519",
                 "name": "佛教慈濟醫療財團法人台中慈濟醫院",
                 "phone": "04-36060666",
@@ -625,6 +832,29 @@
         {
             "type": "Feature",
             "properties": {
+                "id": "1137010042",
+                "name": "彰化基督教醫療財團法人彰化基督教兒童醫院",
+                "phone": "04-7238595",
+                "address": "彰化縣彰化市光南里１３鄰旭光路３２０號、南校街１３５號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": null,
+                "wait_bed": null,
+                "wait_general": null,
+                "wait_icu": null,
+                "date": "2025-02-24T15:30:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54354,
+                    24.071173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": "1137020511",
                 "name": "秀傳醫療財團法人彰濱秀傳紀念醫院",
                 "phone": "04-7813888",
@@ -642,6 +872,29 @@
                 "coordinates": [
                     120.41112,
                     24.078274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1303260014",
+                "name": "中國醫藥大學兒童醫院",
+                "phone": "04-22052121",
+                "address": "臺中市北區育德路１號、學士路９５號、學士路２號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": null,
+                "wait_bed": null,
+                "wait_general": null,
+                "wait_icu": null,
+                "date": "2025-02-24T15:30:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6809,
+                    24.157219
                 ]
             }
         },
@@ -803,6 +1056,29 @@
                 "coordinates": [
                     120.28404,
                     23.464806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1140030012",
+                "name": "佛教慈濟醫療財團法人大林慈濟醫院",
+                "phone": "05-2648000",
+                "address": "嘉義縣大林鎮平林里民生路２號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "24",
+                "wait_icu": "8",
+                "date": "2025-02-24T15:30:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45745,
+                    23.596312
                 ]
             }
         },
