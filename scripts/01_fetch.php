@@ -39,7 +39,7 @@ if (!empty($map['mapdata'])) {
         $targetFile = $rawPaths[$pathKey] . '/' . $item['hosp_id'] . '.json';
         if (!file_exists($targetFile)) {
             echo "{$item['hosp_id']}\n";
-            $browser->jsonRequest('POST', 'https://info.nhi.gov.tw/api/inae1000/inae1000s00/SQL300', [
+            $browser->jsonRequest('POST', 'https://info.nhi.gov.tw/api/inae1000/inae1000s00/SQL300_1', [
                 'C_HospID' => $item['hosp_id'],
                 'C_planType' => '',
             ]);
