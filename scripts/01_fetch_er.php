@@ -16,17 +16,13 @@ use Symfony\Component\HttpClient\HttpClient;
 $browser = new HttpBrowser(HttpClient::create());
 $rawFile = $basePath . '/raw/er.json';
 
-if (!file_exists($rawFile)) {
-    $browser->jsonRequest('POST', 'https://info.nhi.gov.tw/api/inae4000/inae4001s01/SQL0002', [
-        'AREA_NO' => '',
-        'CONT_TYPE' => '',
-    ]);
-    $response = $browser->getResponse()->getContent();
-    $er = json_decode($response, true);
-    file_put_contents($rawFile, json_encode($er, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-} else {
-    $er = json_decode(file_get_contents($rawFile), true);
-}
+$browser->jsonRequest('POST', 'https://info.nhi.gov.tw/api/inae4000/inae4001s01/SQL0002', [
+    'AREA_NO' => '',
+    'CONT_TYPE' => '',
+]);
+$response = $browser->getResponse()->getContent();
+$er = json_decode($response, true);
+file_put_contents($rawFile, json_encode($er, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
 /**
  *
