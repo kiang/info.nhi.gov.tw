@@ -6,6 +6,15 @@ This project archives status information of all emergency rooms in Taiwan. The d
 
 The data is retrieved from [NHI's Emergency Room Information System](https://info.nhi.gov.tw/INAE1000/INAE1000S00) and is available under CC-BY license.
 
+## Visualization
+
+A live visualization of emergency room status is available at [https://tainan.olc.tw/p/er/](https://tainan.olc.tw/p/er/)
+
+### Status Legend
+- 🔴 Emergency Room Congested
+- 🟡 Patients Waiting
+- 🟢 No Waiting Patients
+
 ## Project Structure
 
 - `scripts/`: Contains PHP scripts for data fetching and processing
