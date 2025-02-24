@@ -17,158 +17,14 @@
     "nonE_OBS_MEMO": "",
     "srV_LIST": "急診業務、門診診療、住院診療、精神病患者居家照護、精神科日間住院治療",
     "funC_TYPE": "精神科",
-    "srV_INFO": {
-        "srv_Time": [
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "61",
-                    "hospName": null
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "71",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "62",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "72",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "63",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "73",
-                    "hospName": ""
-                }
-            ]
-        ],
-        "srv_Date": "113\/05\/01",
-        "srv_Memo": "連續假期全日提供24小時急診服務"
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
-    "plans": "思覺失調症醫療給付改善方案、精神疾病嚴重病人強制住院醫療機構、醫院支援西醫醫療資源不足地區改善方案",
+    "plans": "C型肝炎全口服新藥健保給付執行計畫、思覺失調症醫療給付改善方案、抗微生物製劑管理及感染管制品質提升計畫、精神疾病嚴重病人強制住院醫療機構、醫院支援西醫醫療資源不足地區改善方案",
     "fee": {
         "cnT_TYPE": "O",
         "regisT_FEE_NAME": "門診掛號費 80元。",
         "eM_REGIST_FEE_NAME": "急診掛號費 120元。",
-        "feE_REMARK_NAME": "醫事機構備註：全日提供24小時急診服務"
+        "feE_REMARK_NAME": "醫事機構備註：全日提供24小時急診服務",
+        "regisT_URL_NAME": "https:\/\/balireg.balipc.gov.tw\/OINetReg.WebRwd\/"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [
         {
             "hosP_ID": "0131230012",
@@ -184,15 +40,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=0131230012",
     "hosP_TYPE_NAME": "精神科醫院",
     "prE_SRV_LIST": "-",
-    "video_data": [
-        {
-            "vedioy": "否",
-            "codE_CNAME": "-",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "-",
     "longitude": 121.41237,
     "latitude": 25.146557
 }

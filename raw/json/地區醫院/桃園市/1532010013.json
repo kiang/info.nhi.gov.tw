@@ -27,158 +27,14 @@
     "nonE_OBS_MEMO": "",
     "srV_LIST": "復健－物理治療業務、復健－職能治療業務、復健－語言治療業務、急診業務、門診診療、住院診療",
     "funC_TYPE": "外科、復健科",
-    "srV_INFO": {
-        "srv_Time": [
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "61",
-                    "hospName": null
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "71",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "62",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "72",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "63",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "73",
-                    "hospName": ""
-                }
-            ]
-        ],
-        "srv_Date": "113\/05\/01",
-        "srv_Memo": "星期六上午門診08:30-11:00、下午速診至17:00；星期日休診"
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
-    "plans": "-",
+    "plans": "腦中風經動脈取栓術病人跨院合作照護計畫",
     "fee": {
         "cnT_TYPE": "O",
         "regisT_FEE_NAME": "門診掛號費 150元。",
         "eM_REGIST_FEE_NAME": "急診掛號費 300元。",
-        "feE_REMARK_NAME": "醫事機構備註：假日門診掛號費200元"
+        "feE_REMARK_NAME": "醫事機構備註：假日門診掛號費200元",
+        "regisT_URL_NAME": "-"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [
         {
             "hosP_ID": "1532010013",
@@ -194,15 +50,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=1532010013",
     "hosP_TYPE_NAME": "醫院",
     "prE_SRV_LIST": "成人預防保健",
-    "video_data": [
-        {
-            "vedioy": "否",
-            "codE_CNAME": "-",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "-",
     "longitude": 121.30953,
     "latitude": 24.999697
 }

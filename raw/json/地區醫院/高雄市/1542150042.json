@@ -22,163 +22,19 @@
     "nonE_OBS_MEMO": "",
     "srV_LIST": "復健－物理治療業務、復健－職能治療業務、急診業務、門診診療、住院診療",
     "funC_TYPE": "內科、外科、復健科",
-    "srV_INFO": {
-        "srv_Time": [
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "61",
-                    "hospName": "內科,外科,急診"
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "71",
-                    "hospName": "內科,外科,急診"
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "62",
-                    "hospName": "內科,外科"
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "72",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "63",
-                    "hospName": "內科,外科"
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "73",
-                    "hospName": ""
-                }
-            ]
-        ],
-        "srv_Date": "113\/05\/02",
-        "srv_Memo": "急診服務時間為8:30~21:45（未提供24小時急診），＜星期日＞急診服務，僅有上午時段。"
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
-    "plans": "糖尿病及初期慢性腎臟病照護整合方案─糖尿病",
+    "plans": "抗微生物製劑管理及感染管制品質提升計畫、糖尿病及初期慢性腎臟病照護整合方案─糖尿病",
     "fee": {
         "cnT_TYPE": "O",
         "regisT_FEE_NAME": "門診掛號費 120元。",
-        "eM_REGIST_FEE_NAME": "急診掛號費 250元。",
-        "feE_REMARK_NAME": "醫事機構備註：星期日門診掛號費130元；星期日急診掛號費300元"
+        "eM_REGIST_FEE_NAME": "急診掛號費 350元。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [
         {
             "hosP_ID": "1542150042",
             "hosP_REG": "X",
-            "beD_LINK": "請點選",
+            "beD_LINK": " 高新醫院\/病床資訊",
             "beD_HTTP": "https:\/\/www.ksh.url.tw\/custom_73161.html"
         }
     ],
@@ -189,15 +45,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=1542150042",
     "hosP_TYPE_NAME": "醫院",
     "prE_SRV_LIST": "成人預防保健、口腔黏膜檢查、定量免疫法糞便潛血檢查",
-    "video_data": [
-        {
-            "vedioy": "否",
-            "codE_CNAME": "-",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "-",
     "longitude": 120.25716,
     "latitude": 22.865456
 }

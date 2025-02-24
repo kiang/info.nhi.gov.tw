@@ -1,0 +1,38 @@
+{
+    "hosP_NAME": "海山診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "02-29542888",
+    "hosP_ADDR": "新北市板橋區漢生東路１６３號５樓",
+    "hosP_ID": "353101A557",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [
+        {
+            "hosP_ID": "RA13101001",
+            "hosP_GROUP_NAME": "亞東共好醫療聯盟",
+            "suP_HOSP_NAME": "亞東共好醫療聯盟\/醫療財團法人徐元智先生醫藥基金會亞東紀念醫院"
+        }
+    ],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "復健－物理治療業務、復健－職能治療業務、復健－語言治療業務、門診診療",
+    "funC_TYPE": "不分科",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 50元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "臺北業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=353101A557",
+    "hosP_TYPE_NAME": "西醫診所",
+    "prE_SRV_LIST": "-",
+    "longitude": 121.469376,
+    "latitude": 25.012426
+}

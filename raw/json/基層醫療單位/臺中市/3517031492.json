@@ -37,158 +37,14 @@
     "nonE_OBS_MEMO": "（無提供無障礙服務）",
     "srV_LIST": "門診診療",
     "funC_TYPE": "眼科",
-    "srV_INFO": {
-        "srv_Time": [
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "61",
-                    "hospName": null
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "71",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "62",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "72",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "63",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "73",
-                    "hospName": ""
-                }
-            ]
-        ],
-        "srv_Date": "113\/05\/06",
-        "srv_Memo": "5／27-中午-6／5全日休診，眼急診請至中國附醫或台中榮總，有眼科醫師值班；若有臨時變更. 會在goggle向陽眼科網站註記"
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "113\/06\/09、113\/06\/10",
-    "offdaystr": "113-06-09、113-06-10",
     "plans": "家庭醫師整合性照護計畫、視訊診療",
     "fee": {
         "cnT_TYPE": "O",
         "regisT_FEE_NAME": "門診掛號費 150元。",
         "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
-        "feE_REMARK_NAME": "醫事機構備註：75足歲以上掛號費50元 ,福保掛號費100元"
+        "feE_REMARK_NAME": "醫事機構備註：1\/1元旦全天休診.75足歲以上掛號費50元 ,福保掛號費100元",
+        "regisT_URL_NAME": "-"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [],
     "hosP_FLU": null,
     "chilD24": null,
@@ -197,15 +53,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3517031492",
     "hosP_TYPE_NAME": "專科診所",
     "prE_SRV_LIST": "-",
-    "video_data": [
-        {
-            "vedioy": "是",
-            "codE_CNAME": "-",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "6\/8中午-6\/10全日休診",
     "longitude": 120.65501,
     "latitude": 24.146519
 }

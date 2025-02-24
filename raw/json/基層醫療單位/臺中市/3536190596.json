@@ -17,158 +17,14 @@
     "nonE_OBS_MEMO": "（無提供無障礙服務）",
     "srV_LIST": "門診診療、分娩",
     "funC_TYPE": "家醫科、婦產科",
-    "srV_INFO": {
-        "srv_Time": [
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "61",
-                    "hospName": null
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "71",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "62",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "72",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "63",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "73",
-                    "hospName": ""
-                }
-            ]
-        ],
-        "srv_Date": "113\/05\/02",
-        "srv_Memo": "每週六看診8:30~12:00 ，週日休診"
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
-    "plans": "全民健康保險代謝症候群防治計畫、孕婦乙型鏈球菌篩檢補助服務方案、家庭醫師整合性照護計畫、視訊診療",
+    "plans": "代謝症候群防治計畫、孕婦乙型鏈球菌篩檢補助服務方案、家庭醫師整合性照護計畫、視訊診療",
     "fee": {
         "cnT_TYPE": "O",
         "regisT_FEE_NAME": "門診掛號費 150元。",
         "eM_REGIST_FEE_NAME": "急診掛號費 300元。",
-        "feE_REMARK_NAME": "醫事機構備註：自負額50"
+        "feE_REMARK_NAME": "醫事機構備註：自負額50",
+        "regisT_URL_NAME": "-"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [],
     "hosP_FLU": null,
     "chilD24": null,
@@ -177,15 +33,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3536190596",
     "hosP_TYPE_NAME": "專科診所",
     "prE_SRV_LIST": "兒童預防保健、成人預防保健、婦女子宮頸抹片檢查、孕婦產檢、口腔黏膜檢查、定量免疫法糞便潛血檢查",
-    "video_data": [
-        {
-            "vedioy": "是",
-            "codE_CNAME": "-",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "6\/10只看早上",
     "longitude": 120.71877,
     "latitude": 24.126568
 }

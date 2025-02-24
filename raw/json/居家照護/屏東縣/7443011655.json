@@ -2,7 +2,7 @@
     "hosP_NAME": "安騏居家護理所",
     "hosP_CNT_TYPE": "居家照護",
     "hosptel": "08-7338550",
-    "hosP_ADDR": "屏東縣屏東市仁德路５４－２號",
+    "hosP_ADDR": "屏東縣屏東市民權路７３號",
     "hosP_ID": "7443011655",
     "areA_TEL": null,
     "firsT_AID_LEVEL": null,
@@ -11,25 +11,14 @@
     "nonE_OBS_MEMO": "（無相關資料）",
     "srV_LIST": "居家照護",
     "funC_TYPE": "-",
-    "srV_INFO": {
-        "srv_Time": null,
-        "srv_Date": null,
-        "srv_Memo": null
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
     "plans": "-",
     "fee": {
         "cnT_TYPE": "X",
         "regisT_FEE_NAME": "門診掛號費：院所未提供資料。",
         "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
-        "feE_REMARK_NAME": "醫事機構備註： - "
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [],
     "hosP_FLU": null,
     "chilD24": null,
@@ -38,15 +27,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=7443011655",
     "hosP_TYPE_NAME": "居家護理機構",
     "prE_SRV_LIST": "-",
-    "video_data": [
-        {
-            "vedioy": "否",
-            "codE_CNAME": "-",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "-",
-    "longitude": 120.49453,
-    "latitude": 22.671555
+    "longitude": 120.49188,
+    "latitude": 22.672508
 }

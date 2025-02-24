@@ -27,158 +27,14 @@
     "nonE_OBS_MEMO": "",
     "srV_LIST": "急診業務、門診診療、住院診療、精神病患者居家照護、精神科日間住院治療",
     "funC_TYPE": "內科、精神科",
-    "srV_INFO": {
-        "srv_Time": [
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "61",
-                    "hospName": null
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "71",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "62",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "72",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "63",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "73",
-                    "hospName": ""
-                }
-            ]
-        ],
-        "srv_Date": "113\/05\/01",
-        "srv_Memo": null
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
-    "plans": "山地離島地區醫療給付效益提昇計畫、思覺失調症醫療給付改善方案、提升醫院用藥安全與品質方案、精神疾病嚴重病人強制住院醫療機構、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病合併初期慢性腎臟病、視訊診療",
+    "plans": "IDS山地鄉全人整合照護執行方案、山地離島地區醫療給付效益提昇計畫、思覺失調症醫療給付改善方案、抗微生物製劑管理及感染管制品質提升計畫、提升醫院用藥安全與品質方案-臨床藥事照護、精神疾病嚴重病人強制住院醫療機構、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病合併初期慢性腎臟病、視訊診療",
     "fee": {
         "cnT_TYPE": "O",
         "regisT_FEE_NAME": "門診掛號費 50元。",
         "eM_REGIST_FEE_NAME": "急診掛號費 150元。",
-        "feE_REMARK_NAME": "醫事機構備註： - "
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "https:\/\/server.ttpc.mohw.gov.tw\/OINetReg.WebRwd\/"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [
         {
             "hosP_ID": "0138030010",
@@ -194,15 +50,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=0138030010",
     "hosP_TYPE_NAME": "精神科醫院",
     "prE_SRV_LIST": "成人預防保健",
-    "video_data": [
-        {
-            "vedioy": "是",
-            "codE_CNAME": "049-2550800轉1461",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "-",
     "longitude": 120.70453,
     "latitude": 23.990395
 }

@@ -17,25 +17,14 @@
     "nonE_OBS_MEMO": "（無相關資料）",
     "srV_LIST": "安寧居家療護(甲類)、居家照護",
     "funC_TYPE": "-",
-    "srV_INFO": {
-        "srv_Time": null,
-        "srv_Date": null,
-        "srv_Memo": null
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
-    "plans": "居家醫療整合照護計畫",
+    "plans": "在宅急症照護計畫、居家醫療整合照護計畫",
     "fee": {
         "cnT_TYPE": "X",
         "regisT_FEE_NAME": "門診掛號費：院所未提供資料。",
         "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
-        "feE_REMARK_NAME": "醫事機構備註： - "
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [],
     "hosP_FLU": null,
     "chilD24": null,
@@ -44,15 +33,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=7735051070",
     "hosP_TYPE_NAME": "居家護理機構",
     "prE_SRV_LIST": "-",
-    "video_data": [
-        {
-            "vedioy": "否",
-            "codE_CNAME": "-",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "-",
     "longitude": 120.90735,
     "latitude": 24.687096
 }

@@ -17,158 +17,14 @@
     "nonE_OBS_MEMO": "",
     "srV_LIST": "門診診療",
     "funC_TYPE": "不分科",
-    "srV_INFO": {
-        "srv_Time": [
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "61",
-                    "hospName": null
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "71",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "62",
-                    "hospName": null
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "72",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "63",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "73",
-                    "hospName": ""
-                }
-            ]
-        ],
-        "srv_Date": "113\/04\/02",
-        "srv_Memo": "4／4，4／6早上，下午門診，4／4，4／6晚上及4／5，4／7全天休診"
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
-    "plans": "兒童衛教指導服務方案、全民健康保險代謝症候群防治計畫、家庭醫師整合性照護計畫、氣喘醫療給付改善方案、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病合併初期慢性腎臟病",
+    "plans": "代謝症候群防治計畫、兒童發展篩檢服務方案、兒童衛教指導服務方案、家庭醫師整合性照護計畫、氣喘醫療給付改善方案、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病合併初期慢性腎臟病",
     "fee": {
         "cnT_TYPE": "O",
         "regisT_FEE_NAME": "門診掛號費 200元。",
         "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
-        "feE_REMARK_NAME": "醫事機構備註： - "
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [],
     "hosP_FLU": "是",
     "chilD24": null,
@@ -177,15 +33,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3532014157",
     "hosP_TYPE_NAME": "一般診所（醫務室）",
     "prE_SRV_LIST": "兒童預防保健、成人預防保健、定量免疫法糞便潛血檢查",
-    "video_data": [
-        {
-            "vedioy": "否",
-            "codE_CNAME": "-",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "-",
     "longitude": 121.30736,
     "latitude": 24.9832
 }

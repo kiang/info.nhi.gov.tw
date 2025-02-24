@@ -17,158 +17,14 @@
     "nonE_OBS_MEMO": "",
     "srV_LIST": "復健－物理治療業務、復健－職能治療業務、急診業務、門診診療、住院診療、血液透析",
     "funC_TYPE": "家醫科、內科、復健科、牙科",
-    "srV_INFO": {
-        "srv_Time": [
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "61",
-                    "hospName": "不分科,內科,外科,家醫科,急診"
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "71",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "62",
-                    "hospName": "不分科,內科,外科,家醫科"
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "72",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "63",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "73",
-                    "hospName": ""
-                }
-            ]
-        ],
-        "srv_Date": "113\/05\/01",
-        "srv_Memo": "提供24小時急診服務"
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
-    "plans": "0-6歲嚴重齲齒兒童口腔健康照護計畫、C型肝炎全口服新藥健保給付執行計畫、偏遠地區急救責任醫院、安養等機構肺炎鏈球菌疫苗接種院所、居家醫療整合照護計畫、慢性腎衰竭病人門診透析服務品質提升獎勵計畫、提升醫院用藥安全與品質方案、牙醫醫療資源不足地區改善方案(巡迴)、牙醫門診加強感染管制實施方案、牙醫門診總額特殊醫療服務計畫、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、視訊診療、遠距醫療給付計畫、醫療資源缺乏地區條件施行區域-減收20%部分",
+    "plans": "0-6歲嚴重齲齒兒童口腔健康照護計畫、C型肝炎全口服新藥健保給付執行計畫、主動脈剝離手術病人跨院合作照護計畫、偏遠地區急救責任醫院、安養等機構肺炎鏈球菌疫苗接種院所、居家醫療整合照護計畫、慢性腎衰竭病人門診透析服務品質提升獎勵計畫、抗微生物製劑管理及感染管制品質提升計畫、提升醫院用藥安全與品質方案-臨床藥事照護、牙醫醫療資源不足地區改善方案(巡迴)、牙醫門診加強感染管制實施方案、牙醫門診總額特殊醫療服務計畫、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、腦中風經動脈取栓術病人跨院合作照護計畫、視訊診療、遠距醫療給付計畫、醫療資源缺乏地區條件施行區域-減收20%部分",
     "fee": {
         "cnT_TYPE": "O",
         "regisT_FEE_NAME": "門診掛號費 50元。",
         "eM_REGIST_FEE_NAME": "急診掛號費 80元。",
-        "feE_REMARK_NAME": "醫事機構備註：提供24小時急診服務"
+        "feE_REMARK_NAME": "醫事機構備註：提供24小時急診服務",
+        "regisT_URL_NAME": "https:\/\/netregck.tait.mohw.gov.tw\/OINetReg.WebRwd\/Reg\/Dept"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [
         {
             "hosP_ID": "0146020537",
@@ -184,15 +40,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=0146020537",
     "hosP_TYPE_NAME": "醫院",
     "prE_SRV_LIST": "兒童預防保健、成人預防保健、婦女子宮頸抹片檢查、孕婦產檢、兒童牙齒預防保健、口腔黏膜檢查",
-    "video_data": [
-        {
-            "vedioy": "是",
-            "codE_CNAME": "089-854748轉201(劉小姐)",
-            "codE_ENAME": "提供兒童快篩陽性確診評估與相關藥物開立",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "-",
     "longitude": 121.37783,
     "latitude": 23.099295
 }

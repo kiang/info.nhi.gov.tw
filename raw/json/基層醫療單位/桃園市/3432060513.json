@@ -22,158 +22,14 @@
     "nonE_OBS_MEMO": "（無提供無障礙服務）",
     "srV_LIST": "門診診療",
     "funC_TYPE": "家醫科",
-    "srV_INFO": {
-        "srv_Time": [
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "61",
-                    "hospName": null
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "71",
-                    "hospName": null
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "62",
-                    "hospName": null
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "72",
-                    "hospName": null
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "63",
-                    "hospName": null
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "73",
-                    "hospName": null
-                }
-            ]
-        ],
-        "srv_Date": "113\/05\/09",
-        "srv_Memo": "平日夜間20:30-08:30、假日及國定例假日提供急診服務"
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
-    "plans": "全民健康保險代謝症候群防治計畫、家庭醫師整合性照護計畫",
+    "plans": "代謝症候群防治計畫、家庭醫師整合性照護計畫",
     "fee": {
         "cnT_TYPE": "O",
         "regisT_FEE_NAME": "門診掛號費 200元。",
         "eM_REGIST_FEE_NAME": "急診掛號費 500元。",
-        "feE_REMARK_NAME": "醫事機構備註：平日夜間20:30-08:30、假日及國定例假日提供急診服務"
+        "feE_REMARK_NAME": "醫事機構備註：平日夜間20:30-08:30(+1)、假日及國定例假日提供急診服務",
+        "regisT_URL_NAME": "-"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [],
     "hosP_FLU": "是",
     "chilD24": null,
@@ -182,15 +38,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3432060513",
     "hosP_TYPE_NAME": "一般診所（醫務室）",
     "prE_SRV_LIST": "成人預防保健、口腔黏膜檢查、定量免疫法糞便潛血檢查",
-    "video_data": [
-        {
-            "vedioy": "否",
-            "codE_CNAME": "-",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "假日及國定例假日提供急診服務",
     "longitude": 121.23251,
     "latitude": 25.077078
 }

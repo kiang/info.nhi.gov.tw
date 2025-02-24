@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "光年藥局",
+    "hosP_CNT_TYPE": "特約藥局",
+    "hosptel": "02-25921950",
+    "hosP_ADDR": "臺北市大同區民族西路２５８號１樓",
+    "hosP_ID": "5901092265",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "-",
+    "funC_TYPE": "-",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "X",
+        "regisT_FEE_NAME": "門診掛號費：院所未提供資料。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "臺北業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=5901092265",
+    "hosP_TYPE_NAME": "藥師自營",
+    "prE_SRV_LIST": "-",
+    "longitude": 121.512146,
+    "latitude": 25.068535
+}

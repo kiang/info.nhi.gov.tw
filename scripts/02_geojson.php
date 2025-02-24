@@ -11,7 +11,7 @@ $fc = [
     'type' => 'FeatureCollection',
     'features' => [],
 ];
-foreach (glob($basePath . '/raw/json/*/*/*.json') as $jsonFile) {
+foreach (glob($basePath . '/raw/json/hospitals/*/*/*.json') as $jsonFile) {
     $json = json_decode(file_get_contents($jsonFile), true);
     if (isset($json['fee']['regisT_FEE_NAME']) && false === strpos($json['fee']['regisT_FEE_NAME'], '院所未提供資料')) {
         $f = [
@@ -43,4 +43,4 @@ foreach (glob($basePath . '/raw/json/*/*/*.json') as $jsonFile) {
         $fc['features'][] = $f;
     }
 }
-file_put_contents($targetPath . '/points.json', json_encode($fc, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+file_put_contents($targetPath . '/hospitals.json', json_encode($fc, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));

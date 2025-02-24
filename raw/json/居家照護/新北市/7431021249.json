@@ -6,30 +6,25 @@
     "hosP_ID": "7431021249",
     "areA_TEL": null,
     "firsT_AID_LEVEL": null,
-    "hosP_ALLIANCE": [],
+    "hosP_ALLIANCE": [
+        {
+            "hosP_ID": "RA13101001",
+            "hosP_GROUP_NAME": "亞東共好醫療聯盟",
+            "suP_HOSP_NAME": "亞東共好醫療聯盟\/醫療財團法人徐元智先生醫藥基金會亞東紀念醫院"
+        }
+    ],
     "nonE_OBS": "-",
     "nonE_OBS_MEMO": "（無相關資料）",
     "srV_LIST": "居家照護",
     "funC_TYPE": "-",
-    "srV_INFO": {
-        "srv_Time": null,
-        "srv_Date": null,
-        "srv_Memo": null
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
     "plans": "-",
     "fee": {
         "cnT_TYPE": "X",
         "regisT_FEE_NAME": "門診掛號費：院所未提供資料。",
         "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
-        "feE_REMARK_NAME": "醫事機構備註： - "
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [],
     "hosP_FLU": null,
     "chilD24": null,
@@ -38,15 +33,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=7431021249",
     "hosP_TYPE_NAME": "居家護理機構",
     "prE_SRV_LIST": "-",
-    "video_data": [
-        {
-            "vedioy": "否",
-            "codE_CNAME": "-",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "-",
     "longitude": 121.47989,
     "latitude": 25.067867
 }

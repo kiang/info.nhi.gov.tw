@@ -1,0 +1,43 @@
+{
+    "hosP_NAME": "保順皮膚科家醫科診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "02-29710719",
+    "hosP_ADDR": "新北市三重區正義北路５號１－２樓及重新路２段１３巷８號１樓",
+    "hosP_ID": "3531026920",
+    "areA_TEL": "0963-566806",
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [
+        {
+            "hosP_ID": "RA10000070",
+            "hosP_GROUP_NAME": "臺大醫院星月計畫",
+            "suP_HOSP_NAME": "臺大醫院星月計畫\/國立臺灣大學醫學院附設醫院"
+        },
+        {
+            "hosP_ID": "RA10116001",
+            "hosP_GROUP_NAME": "臺北榮總與社區診所雙向轉診團隊",
+            "suP_HOSP_NAME": "臺北榮總與社區診所雙向轉診團隊\/臺北榮民總醫院"
+        }
+    ],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "門診診療",
+    "funC_TYPE": "家醫科、內科、外科、皮膚科",
+    "plans": "B、C肝個案追蹤醫療給付改善方案、C型肝炎全口服新藥健保給付執行計畫、代謝症候群防治計畫、家庭醫師整合性照護計畫、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病合併初期慢性腎臟病",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 100元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": "是",
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "臺北業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3531026920",
+    "hosP_TYPE_NAME": "西醫診所",
+    "prE_SRV_LIST": "兒童預防保健、成人預防保健、婦女子宮頸抹片檢查、定量免疫法糞便潛血檢查",
+    "longitude": 121.497894,
+    "latitude": 25.062592
+}

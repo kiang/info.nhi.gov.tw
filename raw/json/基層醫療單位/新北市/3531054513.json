@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "新店現代耳鼻喉科診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "02-22188811",
+    "hosP_ADDR": "新北市新店區中央路１３７號１樓",
+    "hosP_ID": "3531054513",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "門診診療",
+    "funC_TYPE": "耳鼻喉科",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 150元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": "是",
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "臺北業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3531054513",
+    "hosP_TYPE_NAME": "西醫診所",
+    "prE_SRV_LIST": "口腔黏膜檢查",
+    "longitude": 121.53035,
+    "latitude": 24.973667
+}

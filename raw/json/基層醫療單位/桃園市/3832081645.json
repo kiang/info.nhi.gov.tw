@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "澄馨中醫診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "03-3647070",
+    "hosP_ADDR": "桃園市八德區介壽路一段８８４號１樓",
+    "hosP_ID": "3832081645",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "門診診療",
+    "funC_TYPE": "中醫一般科",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 50元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註：看診時間:上午:8:30-12:00，下午:14:00-17:30，晚上:18:00-21:30",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "北區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3832081645",
+    "hosP_TYPE_NAME": "中醫診所",
+    "prE_SRV_LIST": "-",
+    "longitude": 121.29945,
+    "latitude": 24.960112
+}

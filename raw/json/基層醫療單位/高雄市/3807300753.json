@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "哲康中醫診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "07-5880300",
+    "hosP_ADDR": "高雄市左營區左營大路３０７號１樓",
+    "hosP_ID": "3807300753",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "門診診療",
+    "funC_TYPE": "中醫一般科",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 100元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費 100元。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "高屏業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3807300753",
+    "hosP_TYPE_NAME": "中醫一般診所",
+    "prE_SRV_LIST": "-",
+    "longitude": 120.2919,
+    "latitude": 22.686695
+}

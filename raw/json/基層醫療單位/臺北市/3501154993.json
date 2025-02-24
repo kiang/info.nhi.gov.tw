@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "得恩皮膚專科診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "02-24260985",
+    "hosP_ADDR": "臺北市士林區中山北路５段７１１號（１樓）",
+    "hosP_ID": "3501154993",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "門診診療",
+    "funC_TYPE": "皮膚科",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 200元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費 200元。",
+        "feE_REMARK_NAME": "醫事機構備註：門診PM3:30--PM8:30（星期六星期日正常看診到晚上20:30）過敏,冷凍治療,皮膚傷口處理,",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "臺北業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3501154993",
+    "hosP_TYPE_NAME": "西醫診所",
+    "prE_SRV_LIST": "-",
+    "longitude": 121.52706,
+    "latitude": 25.098013
+}

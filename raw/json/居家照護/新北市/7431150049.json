@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "安頤居家護理所",
+    "hosP_CNT_TYPE": "居家照護",
+    "hosptel": "02-82958828",
+    "hosP_ADDR": "新北市五股區芳洲五路５０號１樓",
+    "hosP_ID": "7431150049",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "居家照護",
+    "funC_TYPE": "-",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "X",
+        "regisT_FEE_NAME": "門診掛號費：院所未提供資料。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "臺北業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=7431150049",
+    "hosP_TYPE_NAME": "居家護理機構",
+    "prE_SRV_LIST": "-",
+    "longitude": 121.444756,
+    "latitude": 25.086449
+}

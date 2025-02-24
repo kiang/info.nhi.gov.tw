@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "社團法人中華身心復元協會附設美滿家園",
+    "hosP_CNT_TYPE": "社區精神復健",
+    "hosptel": "04-8399098",
+    "hosP_ADDR": "彰化縣員林市南平里新生路３２５巷２３號",
+    "hosP_ID": "8337050010",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "精神復健日間型機構",
+    "funC_TYPE": "-",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "X",
+        "regisT_FEE_NAME": "門診掛號費：院所未提供資料。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "中區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=8337050010",
+    "hosP_TYPE_NAME": "社區復健中心",
+    "prE_SRV_LIST": "-",
+    "longitude": 120.5681,
+    "latitude": 23.964018
+}

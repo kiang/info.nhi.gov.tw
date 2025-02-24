@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "祐康診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "07-3638789",
+    "hosP_ADDR": "高雄市楠梓區右昌街５７８號１－２樓",
+    "hosP_ID": "3507310664",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "門診診療",
+    "funC_TYPE": "內科",
+    "plans": "B、C肝個案追蹤醫療給付改善方案、C型肝炎全口服新藥健保給付執行計畫、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 150元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "高屏業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3507310664",
+    "hosP_TYPE_NAME": "專科診所",
+    "prE_SRV_LIST": "成人預防保健、定量免疫法糞便潛血檢查",
+    "longitude": 120.28551,
+    "latitude": 22.718235
+}

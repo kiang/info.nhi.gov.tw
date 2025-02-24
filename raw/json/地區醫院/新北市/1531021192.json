@@ -1,0 +1,39 @@
+{
+    "hosP_NAME": "宏仁醫院",
+    "hosP_CNT_TYPE": "地區醫院",
+    "hosptel": "02-29788877",
+    "hosP_ADDR": "新北市三重區水漾路１段１５８號",
+    "hosP_ID": "1531021192",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "復健－物理治療業務、復健－職能治療業務、復健－語言治療業務、急診業務、門診診療、住院診療、血液透析、腹膜透析業務",
+    "funC_TYPE": "家醫科、內科、外科、骨科、泌尿科、復健科、職業醫學科、急診醫學科、麻醉科、放射診斷科",
+    "plans": "B、C肝個案追蹤醫療給付改善方案、C型肝炎全口服新藥健保給付執行計畫、呼吸器依賴患者整合性照護試辦計畫、居家醫療整合照護計畫、氣喘醫療給付改善方案、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病合併初期慢性腎臟病",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 150元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [
+        {
+            "hosP_ID": "1531021192",
+            "hosP_REG": "X",
+            "beD_LINK": "病床資訊",
+            "beD_HTTP": "https:\/\/www.hrh.com.tw\/page\/about\/index.aspx?kind=126&lang=TW"
+        }
+    ],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "臺北業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=1531021192",
+    "hosP_TYPE_NAME": "醫院",
+    "prE_SRV_LIST": "成人預防保健、定量免疫法糞便潛血檢查",
+    "longitude": 121.48378,
+    "latitude": 25.053965
+}

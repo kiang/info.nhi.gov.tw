@@ -10,26 +10,15 @@
     "nonE_OBS": "-",
     "nonE_OBS_MEMO": "（無相關資料）",
     "srV_LIST": "復健－物理治療業務、門診診療",
-    "funC_TYPE": "骨科",
-    "srV_INFO": {
-        "srv_Time": null,
-        "srv_Date": null,
-        "srv_Memo": null
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
+    "funC_TYPE": "外科、骨科",
     "plans": "-",
     "fee": {
         "cnT_TYPE": "O",
-        "regisT_FEE_NAME": "門診掛號費：院所未提供資料。",
+        "regisT_FEE_NAME": "門診掛號費 250元。",
         "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
-        "feE_REMARK_NAME": "醫事機構備註： - "
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [],
     "hosP_FLU": null,
     "chilD24": null,
@@ -37,16 +26,7 @@
     "brancH_CODE": "臺北業務組",
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=353101A468",
     "hosP_TYPE_NAME": "西醫診所",
-    "prE_SRV_LIST": "-",
-    "video_data": [
-        {
-            "vedioy": "否",
-            "codE_CNAME": "-",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "-",
+    "prE_SRV_LIST": "成人預防保健",
     "longitude": 121.45731,
     "latitude": 24.997416
 }

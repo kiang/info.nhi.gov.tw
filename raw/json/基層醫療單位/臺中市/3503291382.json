@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "大唐診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "04-22491802",
+    "hosP_ADDR": "臺中市北屯區崇德路二段１３５號１樓、２樓",
+    "hosP_ID": "3503291382",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "門診診療",
+    "funC_TYPE": "不分科",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 100元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "中區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3503291382",
+    "hosP_TYPE_NAME": "西醫診所",
+    "prE_SRV_LIST": "-",
+    "longitude": 120.685326,
+    "latitude": 24.172953
+}

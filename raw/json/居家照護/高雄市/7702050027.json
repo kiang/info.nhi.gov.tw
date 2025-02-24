@@ -1,8 +1,8 @@
 {
     "hosP_NAME": "財團法人私立高雄醫學大學附設中和紀念醫院附設居家護理所",
     "hosP_CNT_TYPE": "居家照護",
-    "hosptel": "07-3121101",
-    "hosP_ADDR": "高雄市三民區安生里十全一路１００號",
+    "hosptel": "07-3208156",
+    "hosP_ADDR": "高雄市三民區十全一路１００號Ｃ棟３樓",
     "hosP_ID": "7702050027",
     "areA_TEL": null,
     "firsT_AID_LEVEL": null,
@@ -11,25 +11,14 @@
     "nonE_OBS_MEMO": "（無相關資料）",
     "srV_LIST": "安寧居家療護(甲類)、居家照護",
     "funC_TYPE": "-",
-    "srV_INFO": {
-        "srv_Time": null,
-        "srv_Date": null,
-        "srv_Memo": null
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
-    "plans": "居家醫療整合照護計畫",
+    "plans": "在宅急症照護計畫、居家醫療整合照護計畫",
     "fee": {
         "cnT_TYPE": "X",
         "regisT_FEE_NAME": "門診掛號費：院所未提供資料。",
         "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
-        "feE_REMARK_NAME": "醫事機構備註： - "
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [],
     "hosP_FLU": null,
     "chilD24": null,
@@ -38,15 +27,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=7702050027",
     "hosP_TYPE_NAME": "居家護理機構",
     "prE_SRV_LIST": "-",
-    "video_data": [
-        {
-            "vedioy": "否",
-            "codE_CNAME": "-",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "-",
     "longitude": 120.31,
     "latitude": 22.645178
 }

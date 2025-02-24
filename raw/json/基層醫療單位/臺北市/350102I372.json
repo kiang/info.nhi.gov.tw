@@ -1,0 +1,38 @@
+{
+    "hosP_NAME": "禾馨新生婦幼診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "02-23682333",
+    "hosP_ADDR": "臺北市大安區新生南路３段２號１樓、２號２樓、２號３樓",
+    "hosP_ID": "350102I372",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [
+        {
+            "hosP_ID": "RA10000070",
+            "hosP_GROUP_NAME": "臺大醫院星月計畫",
+            "suP_HOSP_NAME": "臺大醫院星月計畫\/國立臺灣大學醫學院附設醫院"
+        }
+    ],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "門診診療、分娩、婦產科C表手術項目",
+    "funC_TYPE": "兒科、婦產科、麻醉科",
+    "plans": "兒童發展篩檢服務方案、兒童衛教指導服務方案、孕婦乙型鏈球菌篩檢補助服務方案、孕產婦全程照護醫療給付改善方案、新生兒聽力篩檢補助服務方案",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 300元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費 650元。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": "是",
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "臺北業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=350102I372",
+    "hosP_TYPE_NAME": "西醫診所",
+    "prE_SRV_LIST": "兒童預防保健、婦女子宮頸抹片檢查、孕婦產檢",
+    "longitude": 121.53463,
+    "latitude": 25.02578
+}

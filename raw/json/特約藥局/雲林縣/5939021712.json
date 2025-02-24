@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "光明藥局",
+    "hosP_CNT_TYPE": "特約藥局",
+    "hosptel": "05-5263736",
+    "hosP_ADDR": "雲林縣斗南鎮民生路１２３號",
+    "hosP_ID": "5939021712",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "-",
+    "funC_TYPE": "-",
+    "plans": "全民健保提升用藥品質之藥事照護計畫",
+    "fee": {
+        "cnT_TYPE": "X",
+        "regisT_FEE_NAME": "門診掛號費：院所未提供資料。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "南區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=5939021712",
+    "hosP_TYPE_NAME": "藥師自營",
+    "prE_SRV_LIST": "-",
+    "longitude": 120.47796,
+    "latitude": 23.670925
+}

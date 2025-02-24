@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "新竹風澤中醫診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "03-5335658",
+    "hosP_ADDR": "新竹市東區民族路１５７號１樓",
+    "hosP_ID": "3812012493",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "門診診療",
+    "funC_TYPE": "中醫一般科",
+    "plans": "中醫慢性腎臟病門診加強照護計畫、中醫提升孕產照護品質計畫、中醫癌症患者加強照護整合方案─特定癌症患者中醫門診加強照護計畫",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費：院所未提供資料。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "北區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3812012493",
+    "hosP_TYPE_NAME": "中醫診所",
+    "prE_SRV_LIST": "-",
+    "longitude": 120.97881,
+    "latitude": 24.809021
+}

@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "忻安診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "05-2689777",
+    "hosP_ADDR": "嘉義縣水上鄉水上村５鄰市政街１１３號１樓",
+    "hosP_ID": "3540121349",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "門診診療",
+    "funC_TYPE": "家醫科",
+    "plans": "代謝症候群防治計畫、兒童發展篩檢服務方案、兒童衛教指導服務方案、氣喘醫療給付改善方案、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 100元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註：2月28日(五)連續假期上午8:00-12:00正常門診;下午4:00-晚上8:00休診",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": "是",
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "南區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3540121349",
+    "hosP_TYPE_NAME": "西醫診所",
+    "prE_SRV_LIST": "兒童預防保健、成人預防保健、定量免疫法糞便潛血檢查",
+    "longitude": 120.3981,
+    "latitude": 23.43038
+}

@@ -37,158 +37,14 @@
     "nonE_OBS_MEMO": "",
     "srV_LIST": "門診診療",
     "funC_TYPE": "家醫科",
-    "srV_INFO": {
-        "srv_Time": [
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "61",
-                    "hospName": null
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "71",
-                    "hospName": null
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "62",
-                    "hospName": null
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "72",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "63",
-                    "hospName": null
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "73",
-                    "hospName": ""
-                }
-            ]
-        ],
-        "srv_Date": "113\/04\/23",
-        "srv_Memo": "早上7:30-11:20下午16:00-19:50休診前15鐘整理時段停止掛號／請先來電06-6224466洽詢／例假日下午休診"
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
-    "plans": "全民健康保險代謝症候群防治計畫、家庭醫師整合性照護計畫、居家醫療整合照護計畫、氣喘醫療給付改善方案、西醫醫療資源不足地區改善方案(巡迴)",
+    "plans": "代謝症候群防治計畫、在宅急症照護計畫、家庭醫師整合性照護計畫、居家醫療整合照護計畫、氣喘醫療給付改善方案、西醫醫療資源不足地區改善方案(巡迴)",
     "fee": {
         "cnT_TYPE": "O",
         "regisT_FEE_NAME": "門診掛號費 100元。",
         "eM_REGIST_FEE_NAME": "急診掛號費 200元。",
-        "feE_REMARK_NAME": "醫事機構備註：門診時段如有異動以當日為準\/假日掛號費150元\/下班15分前停止掛號\/06-6224466洽"
+        "feE_REMARK_NAME": "醫事機構備註：星期假日掛號費多50元\/下班前15分因清潔消毒工作停止掛號\/請來電06-6224466",
+        "regisT_URL_NAME": "-"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [],
     "hosP_FLU": "是",
     "chilD24": null,
@@ -197,15 +53,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3541090101",
     "hosP_TYPE_NAME": "專科診所",
     "prE_SRV_LIST": "兒童預防保健、成人預防保健、婦女子宮頸抹片檢查、孕婦產檢、口腔黏膜檢查、定量免疫法糞便潛血檢查",
-    "video_data": [
-        {
-            "vedioy": "否",
-            "codE_CNAME": "-",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "請來電066224466",
     "longitude": 120.31337,
     "latitude": 23.278624
 }

@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "心元康復之家",
+    "hosP_CNT_TYPE": "社區精神復健",
+    "hosptel": "04-24820389",
+    "hosP_ADDR": "臺中市大里區東興里國光路二段５２０號〈地上一樓至地上五樓〉",
+    "hosP_ID": "8403200071",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "精神復健住宿型機構",
+    "funC_TYPE": "-",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "X",
+        "regisT_FEE_NAME": "門診掛號費：院所未提供資料。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "中區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=8403200071",
+    "hosP_TYPE_NAME": "康復之家",
+    "prE_SRV_LIST": "-",
+    "longitude": 120.679565,
+    "latitude": 24.110907
+}

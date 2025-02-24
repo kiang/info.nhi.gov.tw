@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "漢陽海安復健科診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "06-2268899",
+    "hosP_ADDR": "臺南市中西區海安路二段３９５號１樓、３９７號１樓",
+    "hosP_ID": "3505340780",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "復健－物理治療業務、復健－職能治療業務、復健－聽力語言治療業務、門診診療",
+    "funC_TYPE": "復健科",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 150元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "南區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3505340780",
+    "hosP_TYPE_NAME": "西醫診所",
+    "prE_SRV_LIST": "定量免疫法糞便潛血檢查",
+    "longitude": 120.19771,
+    "latitude": 22.998684
+}

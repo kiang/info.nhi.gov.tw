@@ -17,158 +17,14 @@
     "nonE_OBS_MEMO": "",
     "srV_LIST": "復健－物理治療業務、復健－職能治療業務、復健－聽力檢查業務、復健－語言治療業務、門診診療、住院診療",
     "funC_TYPE": "外科、兒科、骨科、泌尿科、眼科、精神科、復健科、整形外科、急診醫學科、兒童牙科、麻醉科、放射診斷科、解剖病理科",
-    "srV_INFO": {
-        "srv_Time": [
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "61",
-                    "hospName": null
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "71",
-                    "hospName": null
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "62",
-                    "hospName": null
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "72",
-                    "hospName": null
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "63",
-                    "hospName": null
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "73",
-                    "hospName": null
-                }
-            ]
-        ],
-        "srv_Date": "113\/05\/01",
-        "srv_Memo": "急診24小時服務"
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
-    "plans": "兒童衛教指導服務方案、提升醫院用藥安全與品質方案、新生兒聽力篩檢補助服務方案、早期療育門診醫療給付改善方案計畫、氣喘醫療給付改善方案、牙醫門診總額特殊醫療服務計畫、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病合併初期慢性腎臟病、視訊診療",
+    "plans": "中醫急症處置計畫、中醫癌症患者加強照護整合方案─特定癌症患者中醫門診加強照護計畫、中醫癌症患者加強照護整合方案─癌症患者中醫門診延長照護計畫、中醫癌症患者加強照護整合方案─癌症患者西醫住院中醫輔助醫療計畫、兒童發展篩檢服務方案、兒童衛教指導服務方案、抗微生物製劑管理及感染管制品質提升計畫、提升醫院用藥安全與品質方案-臨床藥事照護、新生兒聽力篩檢補助服務方案、早期療育門診醫療給付改善方案計畫、氣喘醫療給付改善方案、牙醫門診總額特殊醫療服務計畫、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、糖尿病及初期慢性腎臟病照護整合方案─糖尿病合併初期慢性腎臟病、西醫住院病患中醫特定疾病輔助醫療計畫、視訊診療",
     "fee": {
         "cnT_TYPE": "O",
         "regisT_FEE_NAME": "門診掛號費 150元。",
         "eM_REGIST_FEE_NAME": "急診掛號費 300元。",
-        "feE_REMARK_NAME": "醫事機構備註： - "
+        "feE_REMARK_NAME": "醫事機構備註：「輝躍門診」為特約門診需另付病情諮詢費",
+        "regisT_URL_NAME": "-"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [
         {
             "hosP_ID": "1303260014",
@@ -184,15 +40,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=1303260014",
     "hosP_TYPE_NAME": "綜合醫院",
     "prE_SRV_LIST": "兒童預防保健、兒童牙齒預防保健",
-    "video_data": [
-        {
-            "vedioy": "是",
-            "codE_CNAME": "04-22052121",
-            "codE_ENAME": "提供兒科視訊診療、兒童快篩陽性確診評估與相關藥物開立",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "-",
     "longitude": 120.6809,
     "latitude": 24.157219
 }

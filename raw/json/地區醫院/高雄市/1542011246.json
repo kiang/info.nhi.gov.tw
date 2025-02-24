@@ -1,8 +1,8 @@
 {
-    "hosP_NAME": "仁惠婦幼醫院",
+    "hosP_NAME": "新上琳醫院",
     "hosP_CNT_TYPE": "地區醫院",
     "hosptel": "07-7104397",
-    "hosP_ADDR": "高雄市鳳山區自由路８１號",
+    "hosP_ADDR": "高雄市鳳山區自由路８１號１－６樓",
     "hosP_ID": "1542011246",
     "areA_TEL": null,
     "firsT_AID_LEVEL": null,
@@ -20,160 +20,16 @@
     ],
     "nonE_OBS": "無障礙通路、設置無障礙服務窗口",
     "nonE_OBS_MEMO": "",
-    "srV_LIST": "門診診療、住院診療",
-    "funC_TYPE": "內科、婦產科",
-    "srV_INFO": {
-        "srv_Time": [
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "61",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "71",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "62",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "72",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "63",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "73",
-                    "hospName": ""
-                }
-            ]
-        ],
-        "srv_Date": "113\/05\/02",
-        "srv_Memo": null
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
-    "plans": "呼吸器依賴患者整合性照護試辦計畫",
+    "srV_LIST": "復健－物理治療業務、復健－職能治療業務、復健－語言治療業務、門診診療、住院診療",
+    "funC_TYPE": "內科、兒科、復健科",
+    "plans": "呼吸器依賴患者整合性照護試辦計畫、抗微生物製劑管理及感染管制品質提升計畫",
     "fee": {
         "cnT_TYPE": "O",
         "regisT_FEE_NAME": "門診掛號費 100元。",
         "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
-        "feE_REMARK_NAME": "醫事機構備註：無急診"
+        "feE_REMARK_NAME": "醫事機構備註：無急診服務",
+        "regisT_URL_NAME": "https:\/\/www.facebook.com\/photo\/?fbid=122121555992565708&set=a.122110758824565708"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [
         {
             "hosP_ID": "1542011246",
@@ -188,16 +44,7 @@
     "brancH_CODE": "高屏業務組",
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=1542011246",
     "hosP_TYPE_NAME": "醫院",
-    "prE_SRV_LIST": "兒童預防保健、成人預防保健、婦女子宮頸抹片檢查、孕婦產檢、定量免疫法糞便潛血檢查",
-    "video_data": [
-        {
-            "vedioy": "否",
-            "codE_CNAME": "-",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "-",
+    "prE_SRV_LIST": "成人預防保健、口腔黏膜檢查、定量免疫法糞便潛血檢查",
     "longitude": 120.35335,
     "latitude": 22.625813
 }

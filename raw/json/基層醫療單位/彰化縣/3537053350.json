@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "冠群全齡診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "04-8396726",
+    "hosP_ADDR": "彰化縣員林市三信里１１鄰育英路５０５號１樓",
+    "hosP_ID": "3537053350",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "門診診療",
+    "funC_TYPE": "兒科",
+    "plans": "居家醫療整合照護計畫",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 150元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": "是",
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "中區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3537053350",
+    "hosP_TYPE_NAME": "西醫診所",
+    "prE_SRV_LIST": "兒童預防保健、成人預防保健、定量免疫法糞便潛血檢查",
+    "longitude": 120.57361,
+    "latitude": 23.966894
+}

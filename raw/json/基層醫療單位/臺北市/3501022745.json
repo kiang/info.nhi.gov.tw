@@ -4,7 +4,7 @@
     "hosptel": "02-27321318",
     "hosP_ADDR": "臺北市大安區基隆路２段２７０號１樓",
     "hosP_ID": "3501022745",
-    "areA_TEL": "02-87268382",
+    "areA_TEL": null,
     "firsT_AID_LEVEL": null,
     "hosP_ALLIANCE": [
         {
@@ -22,158 +22,14 @@
     "nonE_OBS_MEMO": "（無提供無障礙服務）",
     "srV_LIST": "門診診療",
     "funC_TYPE": "家醫科、內科",
-    "srV_INFO": {
-        "srv_Time": [
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "61",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "71",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "62",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "72",
-                    "hospName": ""
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "Y",
-                    "urlYN": "V",
-                    "tagw": "63",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "73",
-                    "hospName": null
-                }
-            ]
-        ],
-        "srv_Date": "113\/05\/09",
-        "srv_Memo": "平日AM7:30~9:30PM5:00~8:00星期日PM5:00~8:00看診星期六休診"
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "113\/05\/04、113\/05\/11、113\/05\/12、113\/05\/13、113\/05\/14、113\/05\/15、113\/05\/16、113\/05\/17、113\/05\/18、113\/05\/19、113\/05\/25、113\/06\/01、113\/06\/08、113\/06\/09、113\/06\/10、113\/06\/15、113\/06\/22、113\/06\/29、113\/07\/06、113\/07\/13、113\/07\/20、113\/07\/27、113\/08\/03、113\/08\/10、113\/08\/17、113\/08\/24、113\/08\/31",
-    "offdaystr": "113-05-04、113-05-11、113-05-12、113-05-13、113-05-14、113-05-15、113-05-16、113-05-17、113-05-18、113-05-19、113-05-25、113-06-01、113-06-08、113-06-09、113-06-10、113-06-15、113-06-22、113-06-29、113-07-06、113-07-13、113-07-20、113-07-27、113-08-03、113-08-10、113-08-17、113-08-24、113-08-31",
-    "plans": "家庭醫師整合性照護計畫、居家醫療整合照護計畫、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、視訊診療",
+    "plans": "居家醫療整合照護計畫、糖尿病及初期慢性腎臟病照護整合方案─糖尿病、視訊診療",
     "fee": {
         "cnT_TYPE": "O",
         "regisT_FEE_NAME": "門診掛號費 100元。",
         "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
-        "feE_REMARK_NAME": "醫事機構備註：5\/11至5\/19休診"
+        "feE_REMARK_NAME": "醫事機構備註：3\/02星期日晚間有診",
+        "regisT_URL_NAME": "-"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [],
     "hosP_FLU": null,
     "chilD24": null,
@@ -182,15 +38,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3501022745",
     "hosP_TYPE_NAME": "一般診所（醫務室）",
     "prE_SRV_LIST": "-",
-    "video_data": [
-        {
-            "vedioy": "是",
-            "codE_CNAME": "-",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "端午節休診6\/11AM7:30~9:30看診",
     "longitude": 121.54976,
     "latitude": 25.022137
 }

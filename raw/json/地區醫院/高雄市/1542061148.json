@@ -17,158 +17,14 @@
     "nonE_OBS_MEMO": "",
     "srV_LIST": "急診業務、門診診療、住院診療、分娩",
     "funC_TYPE": "內科、外科",
-    "srV_INFO": {
-        "srv_Time": [
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "61",
-                    "hospName": "不分科,兒科,內科,外科,家醫科,急診,急診醫學科,泌尿科,皮膚科,神經外科,骨科"
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "71",
-                    "hospName": "不分科,兒科,內科,外科,家醫科,急診,急診醫學科,泌尿科,皮膚科,神經外科,骨科"
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "62",
-                    "hospName": "不分科,兒科,內科,外科,家醫科,急診醫學科,泌尿科,皮膚科,神經外科,骨科"
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "72",
-                    "hospName": "不分科,兒科,內科,外科,家醫科,急診醫學科,泌尿科,皮膚科,神經外科,骨科"
-                }
-            ],
-            [
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "X",
-                    "tagw": "",
-                    "hospName": ""
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "63",
-                    "hospName": "不分科,兒科,內科,外科,家醫科,急診醫學科,泌尿科,皮膚科,神經外科,骨科"
-                },
-                {
-                    "yn": "N",
-                    "urlYN": "V",
-                    "tagw": "73",
-                    "hospName": "不分科,兒科,內科,外科,家醫科,急診醫學科,泌尿科,皮膚科,神經外科,骨科"
-                }
-            ]
-        ],
-        "srv_Date": "113\/05\/01",
-        "srv_Memo": "7:00-8:00，12:00-14:00，18:00-19:00，22:00-23:00為急診時段"
-    },
-    "phonelongholiday": [],
-    "pclongholiday": [],
-    "offday": "",
-    "offdaystr": "",
-    "plans": "偏遠地區急救責任醫院、居家醫療整合照護計畫、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病",
+    "plans": "主動脈剝離手術病人跨院合作照護計畫、偏遠地區急救責任醫院、居家醫療整合照護計畫、抗微生物製劑管理及感染管制品質提升計畫、糖尿病及初期慢性腎臟病照護整合方案─初期慢性腎臟病、腦中風經動脈取栓術病人跨院合作照護計畫",
     "fee": {
         "cnT_TYPE": "O",
-        "regisT_FEE_NAME": "門診掛號費 120元。",
+        "regisT_FEE_NAME": "門診掛號費 170元。",
         "eM_REGIST_FEE_NAME": "急診掛號費 200元。",
-        "feE_REMARK_NAME": "醫事機構備註：春節期間1\/21(除夕)~1\/26(初五)07:00~23:00全時段皆為急診收費)"
+        "feE_REMARK_NAME": "醫事機構備註：春節期間1\/28(除夕)~2\/2(初五)07:00~23:00全時段皆為急診收費。2\/3(初六)恢復正常門診",
+        "regisT_URL_NAME": "-"
     },
-    "hosP_PLAN": [],
-    "ch_HOSP_PLAN": [],
-    "hosp_dr": [],
     "dailY_BED_URL": [
         {
             "hosP_ID": "1542061148",
@@ -184,15 +40,6 @@
     "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=1542061148",
     "hosP_TYPE_NAME": "醫院",
     "prE_SRV_LIST": "兒童預防保健、成人預防保健、兒童牙齒預防保健、口腔黏膜檢查、定量免疫法糞便潛血檢查",
-    "video_data": [
-        {
-            "vedioy": "否",
-            "codE_CNAME": "-",
-            "codE_ENAME": "-",
-            "memo": null
-        }
-    ],
-    "holidaY_REMARK": "-",
     "longitude": 120.38487,
     "latitude": 22.617691
 }

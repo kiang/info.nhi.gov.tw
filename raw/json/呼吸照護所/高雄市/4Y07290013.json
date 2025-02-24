@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "惠鈞居家呼吸照護所",
+    "hosP_CNT_TYPE": "呼吸照護所",
+    "hosptel": "07-5885151",
+    "hosP_ADDR": "高雄市鼓山區葆禎路２２８號１樓",
+    "hosP_ID": "4Y07290013",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "居家照護、居家呼吸照護",
+    "funC_TYPE": "-",
+    "plans": "呼吸器依賴患者整合性照護試辦計畫、在宅急症照護計畫、居家醫療整合照護計畫",
+    "fee": {
+        "cnT_TYPE": "X",
+        "regisT_FEE_NAME": "門診掛號費：院所未提供資料。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "-"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": null,
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "高屏業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=4Y07290013",
+    "hosP_TYPE_NAME": "私立居家呼吸照護所",
+    "prE_SRV_LIST": "-",
+    "longitude": 120.280716,
+    "latitude": 22.663519
+}

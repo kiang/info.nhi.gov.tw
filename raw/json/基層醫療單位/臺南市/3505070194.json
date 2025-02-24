@@ -1,0 +1,32 @@
+{
+    "hosP_NAME": "樂嶼診所",
+    "hosP_CNT_TYPE": "基層醫療單位",
+    "hosptel": "06-5837433",
+    "hosP_ADDR": "臺南市善化區坐駕里建國路４１號１樓",
+    "hosP_ID": "3505070194",
+    "areA_TEL": null,
+    "firsT_AID_LEVEL": null,
+    "hosP_ALLIANCE": [],
+    "nonE_OBS": "-",
+    "nonE_OBS_MEMO": "（無相關資料）",
+    "srV_LIST": "門診診療",
+    "funC_TYPE": "內科",
+    "plans": "-",
+    "fee": {
+        "cnT_TYPE": "O",
+        "regisT_FEE_NAME": "門診掛號費 150元。",
+        "eM_REGIST_FEE_NAME": "急診掛號費：院所未提供資料。",
+        "feE_REMARK_NAME": "醫事機構備註： - ",
+        "regisT_URL_NAME": "https:\/\/www.facebook.com\/people\/%E6%A8%82%E5%B6%BC%E8%A8%BA%E6%89%80\/61560899161688\/"
+    },
+    "dailY_BED_URL": [],
+    "hosP_FLU": "是",
+    "chilD24": null,
+    "conT_E_DATE": "-",
+    "brancH_CODE": "南區業務組",
+    "hosP_QTY_URL": "https:\/\/info.nhi.gov.tw\/INAE1000\/Query3Link?HospID=3505070194",
+    "hosP_TYPE_NAME": "西醫診所",
+    "prE_SRV_LIST": "成人預防保健、定量免疫法糞便潛血檢查",
+    "longitude": 120.297195,
+    "latitude": 23.12759
+}
