@@ -1,5 +1,5 @@
 {
-    "sysdate": "2025-07-31 11:00",
+    "sysdate": "2025-07-31 11:45",
     "data": [
         {
             "hosP_ID": "0101020017",
@@ -9,10 +9,10 @@
             "inform": "N",
             "waiT_SEE_CNT": "1",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "7",
+            "waiT_GENERAL_CNT": "8",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "0101090517",
@@ -25,7 +25,7 @@
             "waiT_GENERAL_CNT": null,
             "waiT_ICU_CNT": null,
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "0401180014",
@@ -35,10 +35,10 @@
             "inform": "N",
             "waiT_SEE_CNT": "1",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "113",
+            "waiT_GENERAL_CNT": "100",
             "waiT_ICU_CNT": "3",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "0401180023",
@@ -51,7 +51,7 @@
             "waiT_GENERAL_CNT": "0",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "0434010518",
@@ -59,12 +59,12 @@
             "areA_NO_N": "34",
             "conT_TYPE": "2",
             "inform": "Y",
-            "waiT_SEE_CNT": "2",
+            "waiT_SEE_CNT": "1",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "23",
+            "waiT_GENERAL_CNT": "14",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "0501110514",
@@ -74,10 +74,10 @@
             "inform": "N",
             "waiT_SEE_CNT": "1",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "46",
-            "waiT_ICU_CNT": "2",
+            "waiT_GENERAL_CNT": "44",
+            "waiT_ICU_CNT": "1",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "0601160016",
@@ -87,10 +87,10 @@
             "inform": "N",
             "waiT_SEE_CNT": "2",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "36",
+            "waiT_GENERAL_CNT": "31",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1101020018",
@@ -98,12 +98,12 @@
             "areA_NO_N": "01",
             "conT_TYPE": "1",
             "inform": "N",
-            "waiT_SEE_CNT": "0",
+            "waiT_SEE_CNT": "1",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "7",
-            "waiT_ICU_CNT": "0",
+            "waiT_GENERAL_CNT": "10",
+            "waiT_ICU_CNT": "1",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1101100011",
@@ -111,12 +111,12 @@
             "areA_NO_N": "01",
             "conT_TYPE": "1",
             "inform": "N",
-            "waiT_SEE_CNT": "4",
+            "waiT_SEE_CNT": "3",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "38",
+            "waiT_GENERAL_CNT": "37",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1101100020",
@@ -129,7 +129,7 @@
             "waiT_GENERAL_CNT": null,
             "waiT_ICU_CNT": null,
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1101150011",
@@ -137,12 +137,12 @@
             "areA_NO_N": "01",
             "conT_TYPE": "1",
             "inform": "N",
-            "waiT_SEE_CNT": "0",
+            "waiT_SEE_CNT": "1",
             "waiT_BED_CNT": "0",
             "waiT_GENERAL_CNT": "20",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1101160017",
@@ -152,10 +152,10 @@
             "inform": "N",
             "waiT_SEE_CNT": "0",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "6",
+            "waiT_GENERAL_CNT": "5",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1111060015",
@@ -168,7 +168,7 @@
             "waiT_GENERAL_CNT": "7",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1131010011",
@@ -176,12 +176,12 @@
             "areA_NO_N": "31",
             "conT_TYPE": "1",
             "inform": "N",
-            "waiT_SEE_CNT": "7",
-            "waiT_BED_CNT": "16",
-            "waiT_GENERAL_CNT": "15",
+            "waiT_SEE_CNT": "5",
+            "waiT_BED_CNT": "19",
+            "waiT_GENERAL_CNT": "11",
             "waiT_ICU_CNT": "1",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1131050515",
@@ -189,12 +189,12 @@
             "areA_NO_N": "31",
             "conT_TYPE": "1",
             "inform": "N",
-            "waiT_SEE_CNT": "2",
+            "waiT_SEE_CNT": "0",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "17",
+            "waiT_GENERAL_CNT": "10",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1131100010",
@@ -202,12 +202,12 @@
             "areA_NO_N": "31",
             "conT_TYPE": "1",
             "inform": "N",
-            "waiT_SEE_CNT": "4",
+            "waiT_SEE_CNT": "3",
             "waiT_BED_CNT": "0",
             "waiT_GENERAL_CNT": "12",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1131130018",
@@ -217,10 +217,10 @@
             "inform": "N",
             "waiT_SEE_CNT": "2",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "27",
+            "waiT_GENERAL_CNT": "26",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1134020019",
@@ -228,12 +228,12 @@
             "areA_NO_N": "34",
             "conT_TYPE": "2",
             "inform": "N",
-            "waiT_SEE_CNT": "1",
-            "waiT_BED_CNT": "1",
-            "waiT_GENERAL_CNT": "10",
+            "waiT_SEE_CNT": "0",
+            "waiT_BED_CNT": "3",
+            "waiT_GENERAL_CNT": "7",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1231050017",
@@ -241,12 +241,12 @@
             "areA_NO_N": "31",
             "conT_TYPE": "2",
             "inform": "N",
-            "waiT_SEE_CNT": "8",
+            "waiT_SEE_CNT": "12",
             "waiT_BED_CNT": "0",
             "waiT_GENERAL_CNT": "18",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1301170017",
@@ -259,7 +259,7 @@
             "waiT_GENERAL_CNT": "18",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1301200010",
@@ -267,12 +267,12 @@
             "areA_NO_N": "01",
             "conT_TYPE": "1",
             "inform": "N",
-            "waiT_SEE_CNT": "3",
+            "waiT_SEE_CNT": "1",
             "waiT_BED_CNT": "0",
             "waiT_GENERAL_CNT": "49",
             "waiT_ICU_CNT": "1",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1331040513",
@@ -281,11 +281,11 @@
             "conT_TYPE": "1",
             "inform": "N",
             "waiT_SEE_CNT": "3",
-            "waiT_BED_CNT": "13",
-            "waiT_GENERAL_CNT": "61",
+            "waiT_BED_CNT": "14",
+            "waiT_GENERAL_CNT": "59",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1331160010",
@@ -295,10 +295,10 @@
             "inform": "Y",
             "waiT_SEE_CNT": "1",
             "waiT_BED_CNT": "1",
-            "waiT_GENERAL_CNT": "42",
+            "waiT_GENERAL_CNT": "41",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "0132010014",
@@ -306,12 +306,12 @@
             "areA_NO_N": "32",
             "conT_TYPE": "2",
             "inform": "N",
-            "waiT_SEE_CNT": "7",
+            "waiT_SEE_CNT": "5",
             "waiT_BED_CNT": "0",
             "waiT_GENERAL_CNT": "27",
             "waiT_ICU_CNT": "1",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "0412040012",
@@ -324,7 +324,7 @@
             "waiT_GENERAL_CNT": "24",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "0933050018",
@@ -332,12 +332,12 @@
             "areA_NO_N": "33",
             "conT_TYPE": "2",
             "inform": "N",
-            "waiT_SEE_CNT": "4",
+            "waiT_SEE_CNT": "2",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "2",
+            "waiT_GENERAL_CNT": "1",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1112010519",
@@ -345,12 +345,12 @@
             "areA_NO_N": "12",
             "conT_TYPE": "2",
             "inform": "N",
-            "waiT_SEE_CNT": "1",
+            "waiT_SEE_CNT": "0",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "10",
+            "waiT_GENERAL_CNT": "12",
             "waiT_ICU_CNT": "2",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1112010537",
@@ -358,12 +358,12 @@
             "areA_NO_N": "12",
             "conT_TYPE": "2",
             "inform": "N",
-            "waiT_SEE_CNT": "3",
+            "waiT_SEE_CNT": "0",
             "waiT_BED_CNT": "0",
             "waiT_GENERAL_CNT": "6",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1132070011",
@@ -371,12 +371,12 @@
             "areA_NO_N": "32",
             "conT_TYPE": "1",
             "inform": "Y",
-            "waiT_SEE_CNT": "6",
-            "waiT_BED_CNT": "15",
-            "waiT_GENERAL_CNT": "119",
+            "waiT_SEE_CNT": "2",
+            "waiT_BED_CNT": "16",
+            "waiT_GENERAL_CNT": "110",
             "waiT_ICU_CNT": "3",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1135050020",
@@ -389,7 +389,7 @@
             "waiT_GENERAL_CNT": "4",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1535010051",
@@ -402,7 +402,7 @@
             "waiT_GENERAL_CNT": "8",
             "waiT_ICU_CNT": "1",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "0617060018",
@@ -412,10 +412,10 @@
             "inform": "N",
             "waiT_SEE_CNT": "1",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "10",
-            "waiT_ICU_CNT": "1",
+            "waiT_GENERAL_CNT": "11",
+            "waiT_ICU_CNT": "2",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "0936050029",
@@ -428,7 +428,7 @@
             "waiT_GENERAL_CNT": "0",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "0936060016",
@@ -441,7 +441,7 @@
             "waiT_GENERAL_CNT": "1",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "0937010019",
@@ -451,10 +451,10 @@
             "inform": "N",
             "waiT_SEE_CNT": "0",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "24",
+            "waiT_GENERAL_CNT": "27",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1136090519",
@@ -462,12 +462,12 @@
             "areA_NO_N": "03",
             "conT_TYPE": "2",
             "inform": "N",
-            "waiT_SEE_CNT": "1",
+            "waiT_SEE_CNT": "2",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "17",
+            "waiT_GENERAL_CNT": "10",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1137010024",
@@ -475,12 +475,12 @@
             "areA_NO_N": "37",
             "conT_TYPE": "1",
             "inform": "N",
-            "waiT_SEE_CNT": "1",
+            "waiT_SEE_CNT": "2",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "16",
+            "waiT_GENERAL_CNT": "7",
             "waiT_ICU_CNT": "1",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1137010042",
@@ -493,7 +493,7 @@
             "waiT_GENERAL_CNT": null,
             "waiT_ICU_CNT": null,
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1137020511",
@@ -503,10 +503,10 @@
             "inform": "N",
             "waiT_SEE_CNT": "0",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "2",
+            "waiT_GENERAL_CNT": "4",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1303260014",
@@ -519,7 +519,7 @@
             "waiT_GENERAL_CNT": null,
             "waiT_ICU_CNT": null,
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1317040011",
@@ -529,10 +529,10 @@
             "inform": "N",
             "waiT_SEE_CNT": "1",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "13",
+            "waiT_GENERAL_CNT": "12",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1317050017",
@@ -540,12 +540,12 @@
             "areA_NO_N": "03",
             "conT_TYPE": "1",
             "inform": "N",
-            "waiT_SEE_CNT": "3",
+            "waiT_SEE_CNT": "2",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "27",
-            "waiT_ICU_CNT": "2",
+            "waiT_GENERAL_CNT": "26",
+            "waiT_ICU_CNT": "4",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1517061032",
@@ -553,12 +553,12 @@
             "areA_NO_N": "03",
             "conT_TYPE": "2",
             "inform": "N",
-            "waiT_SEE_CNT": "7",
+            "waiT_SEE_CNT": "9",
             "waiT_BED_CNT": "0",
             "waiT_GENERAL_CNT": "0",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1536030075",
@@ -571,7 +571,7 @@
             "waiT_GENERAL_CNT": "1",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "0421040011",
@@ -579,25 +579,25 @@
             "areA_NO_N": "05",
             "conT_TYPE": "1",
             "inform": "N",
-            "waiT_SEE_CNT": "4",
-            "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "43",
+            "waiT_SEE_CNT": "3",
+            "waiT_BED_CNT": "6",
+            "waiT_GENERAL_CNT": "39",
             "waiT_ICU_CNT": "2",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "0439010518",
             "hosP_NAME": "臺大雲林",
             "areA_NO_N": "39",
             "conT_TYPE": "2",
-            "inform": "N",
-            "waiT_SEE_CNT": "2",
+            "inform": "Y",
+            "waiT_SEE_CNT": "0",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "32",
+            "waiT_GENERAL_CNT": "31",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1122010012",
@@ -605,12 +605,12 @@
             "areA_NO_N": "22",
             "conT_TYPE": "2",
             "inform": "N",
-            "waiT_SEE_CNT": "2",
+            "waiT_SEE_CNT": "7",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "27",
+            "waiT_GENERAL_CNT": "25",
             "waiT_ICU_CNT": "4",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1140010510",
@@ -618,12 +618,12 @@
             "areA_NO_N": "40",
             "conT_TYPE": "2",
             "inform": "Y",
-            "waiT_SEE_CNT": "3",
+            "waiT_SEE_CNT": "4",
             "waiT_BED_CNT": "0",
             "waiT_GENERAL_CNT": "18",
             "waiT_ICU_CNT": "8",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1140030012",
@@ -631,12 +631,12 @@
             "areA_NO_N": "40",
             "conT_TYPE": "2",
             "inform": "N",
-            "waiT_SEE_CNT": "0",
+            "waiT_SEE_CNT": "2",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "31",
+            "waiT_GENERAL_CNT": "32",
             "waiT_ICU_CNT": "1",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1141310019",
@@ -644,12 +644,12 @@
             "areA_NO_N": "05",
             "conT_TYPE": "1",
             "inform": "N",
-            "waiT_SEE_CNT": "1",
+            "waiT_SEE_CNT": "7",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "65",
-            "waiT_ICU_CNT": "3",
+            "waiT_GENERAL_CNT": "60",
+            "waiT_ICU_CNT": "4",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "0602030026",
@@ -657,12 +657,12 @@
             "areA_NO_N": "07",
             "conT_TYPE": "1",
             "inform": "N",
-            "waiT_SEE_CNT": "1",
+            "waiT_SEE_CNT": "2",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "56",
-            "waiT_ICU_CNT": "2",
+            "waiT_GENERAL_CNT": "55",
+            "waiT_ICU_CNT": "1",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1142100017",
@@ -670,12 +670,12 @@
             "areA_NO_N": "07",
             "conT_TYPE": "1",
             "inform": "Y",
-            "waiT_SEE_CNT": "1",
+            "waiT_SEE_CNT": "2",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "114",
-            "waiT_ICU_CNT": "0",
+            "waiT_GENERAL_CNT": "104",
+            "waiT_ICU_CNT": "1",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1142120001",
@@ -685,10 +685,10 @@
             "inform": "N",
             "waiT_SEE_CNT": "2",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "54",
+            "waiT_GENERAL_CNT": "46",
             "waiT_ICU_CNT": "2",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1143010012",
@@ -696,12 +696,12 @@
             "areA_NO_N": "43",
             "conT_TYPE": "2",
             "inform": "N",
-            "waiT_SEE_CNT": "1",
+            "waiT_SEE_CNT": "0",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "12",
+            "waiT_GENERAL_CNT": "13",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1302050014",
@@ -709,12 +709,12 @@
             "areA_NO_N": "07",
             "conT_TYPE": "1",
             "inform": "N",
-            "waiT_SEE_CNT": "3",
+            "waiT_SEE_CNT": "2",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "49",
-            "waiT_ICU_CNT": "1",
+            "waiT_GENERAL_CNT": "46",
+            "waiT_ICU_CNT": "2",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1145010010",
@@ -722,12 +722,12 @@
             "areA_NO_N": "45",
             "conT_TYPE": "1",
             "inform": "Y",
-            "waiT_SEE_CNT": "0",
+            "waiT_SEE_CNT": "1",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "56",
+            "waiT_GENERAL_CNT": "53",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         },
         {
             "hosP_ID": "1146010014",
@@ -735,12 +735,12 @@
             "areA_NO_N": "46",
             "conT_TYPE": "2",
             "inform": "N",
-            "waiT_SEE_CNT": "0",
+            "waiT_SEE_CNT": "1",
             "waiT_BED_CNT": "0",
-            "waiT_GENERAL_CNT": "11",
+            "waiT_GENERAL_CNT": "13",
             "waiT_ICU_CNT": "0",
             "url": null,
-            "txT_DATE": "2025-07-31T11:00:28"
+            "txT_DATE": "2025-07-31T11:45:15"
         }
     ]
 }
