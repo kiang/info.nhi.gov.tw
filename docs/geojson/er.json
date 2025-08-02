@@ -14,7 +14,7 @@
                 "wait_bed": null,
                 "wait_general": null,
                 "wait_icu": null,
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -33,11 +33,11 @@
                 "address": "臺北市中正區中山南路７、８號；常德街１號",
                 "type": "醫學中心",
                 "inform": "N",
-                "wait_see": "0",
+                "wait_see": "3",
                 "wait_bed": "0",
-                "wait_general": "95",
-                "wait_icu": "5",
-                "date": "2025-08-02T22:30:30"
+                "wait_general": "94",
+                "wait_icu": "4",
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -60,7 +60,7 @@
                 "wait_bed": "0",
                 "wait_general": "0",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -81,9 +81,9 @@
                 "inform": "N",
                 "wait_see": "0",
                 "wait_bed": "0",
-                "wait_general": "3",
+                "wait_general": "2",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +106,7 @@
                 "wait_bed": "0",
                 "wait_general": "14",
                 "wait_icu": "2",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -125,11 +125,11 @@
                 "address": "臺北市北投區石牌路２段２０１號",
                 "type": "醫學中心",
                 "inform": "N",
-                "wait_see": "3",
+                "wait_see": "2",
                 "wait_bed": "0",
                 "wait_general": "18",
                 "wait_icu": "1",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -148,11 +148,11 @@
                 "address": "臺北市大安區仁愛路４段２８０號，２６６巷６號",
                 "type": "醫學中心",
                 "inform": "N",
-                "wait_see": "0",
+                "wait_see": "2",
                 "wait_bed": "0",
                 "wait_general": "4",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -171,11 +171,11 @@
                 "address": "臺北市中山區中山北路２段９２號",
                 "type": "醫學中心",
                 "inform": "N",
-                "wait_see": "3",
+                "wait_see": "1",
                 "wait_bed": "0",
-                "wait_general": "23",
+                "wait_general": "19",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +198,7 @@
                 "wait_bed": null,
                 "wait_general": null,
                 "wait_icu": null,
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -216,12 +216,12 @@
                 "phone": "02-28332211",
                 "address": "臺北市士林區文昌路９５號及士商路５１號１至７樓５３、５５號",
                 "type": "醫學中心",
-                "inform": "Y",
-                "wait_see": "1",
+                "inform": "N",
+                "wait_see": "2",
                 "wait_bed": "0",
                 "wait_general": "16",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -242,9 +242,9 @@
                 "inform": "N",
                 "wait_see": "0",
                 "wait_bed": "0",
-                "wait_general": "2",
+                "wait_general": "3",
                 "wait_icu": "1",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -267,7 +267,7 @@
                 "wait_bed": "16",
                 "wait_general": "24",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -286,11 +286,11 @@
                 "address": "新北市板橋區南雅南路２段２１號及高爾富路３００號",
                 "type": "醫學中心",
                 "inform": "Y",
-                "wait_see": "3",
-                "wait_bed": "16",
-                "wait_general": "8",
+                "wait_see": "6",
+                "wait_bed": "18",
+                "wait_general": "9",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +313,7 @@
                 "wait_bed": "0",
                 "wait_general": "0",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -336,7 +336,7 @@
                 "wait_bed": "0",
                 "wait_general": "4",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -359,7 +359,7 @@
                 "wait_bed": "0",
                 "wait_general": "33",
                 "wait_icu": "1",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -379,10 +379,10 @@
                 "type": "區域醫院",
                 "inform": "N",
                 "wait_see": "1",
-                "wait_bed": "1",
+                "wait_bed": "0",
                 "wait_general": "5",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -405,7 +405,7 @@
                 "wait_bed": "0",
                 "wait_general": "23",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -428,7 +428,7 @@
                 "wait_bed": "0",
                 "wait_general": "4",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -449,9 +449,9 @@
                 "inform": "N",
                 "wait_see": "3",
                 "wait_bed": "0",
-                "wait_general": "28",
+                "wait_general": "26",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -474,7 +474,7 @@
                 "wait_bed": "0",
                 "wait_general": "47",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -493,11 +493,11 @@
                 "address": "新北市泰山區貴子路６９號（地下４層、地上１至１３層、１５層）",
                 "type": "區域醫院",
                 "inform": "Y",
-                "wait_see": "7",
+                "wait_see": "5",
                 "wait_bed": "1",
-                "wait_general": "38",
+                "wait_general": "36",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -520,7 +520,7 @@
                 "wait_bed": "0",
                 "wait_general": "35",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -543,7 +543,7 @@
                 "wait_bed": "3",
                 "wait_general": "12",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -562,11 +562,11 @@
                 "address": "新竹縣竹北市縣政二路６９號",
                 "type": "區域醫院",
                 "inform": "N",
-                "wait_see": "0",
+                "wait_see": "1",
                 "wait_bed": "0",
                 "wait_general": "0",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -587,9 +587,9 @@
                 "inform": "N",
                 "wait_see": "1",
                 "wait_bed": "0",
-                "wait_general": "3",
+                "wait_general": "4",
                 "wait_icu": "1",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -612,7 +612,7 @@
                 "wait_bed": "0",
                 "wait_general": "1",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -631,11 +631,11 @@
                 "address": "桃園市龜山區公西里復興街５號、５之７號及文化一路１５號",
                 "type": "醫學中心",
                 "inform": "Y",
-                "wait_see": "12",
+                "wait_see": "8",
                 "wait_bed": "0",
-                "wait_general": "112",
-                "wait_icu": "6",
-                "date": "2025-08-02T22:30:30"
+                "wait_general": "117",
+                "wait_icu": "5",
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -654,11 +654,11 @@
                 "address": "苗栗縣頭份市信義路１２８號",
                 "type": "區域醫院",
                 "inform": "N",
-                "wait_see": "0",
+                "wait_see": "1",
                 "wait_bed": "0",
-                "wait_general": "1",
-                "wait_icu": "1",
-                "date": "2025-08-02T22:30:30"
+                "wait_general": "0",
+                "wait_icu": "0",
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -681,7 +681,7 @@
                 "wait_bed": "0",
                 "wait_general": "3",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -702,9 +702,9 @@
                 "inform": "N",
                 "wait_see": "0",
                 "wait_bed": "0",
-                "wait_general": "0",
-                "wait_icu": "1",
-                "date": "2025-08-02T22:30:30"
+                "wait_general": "4",
+                "wait_icu": "0",
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -723,11 +723,11 @@
                 "address": "臺中市沙鹿區沙田路１１７號、向上路七段１２７號及１２５號",
                 "type": "區域醫院",
                 "inform": "N",
-                "wait_see": "2",
+                "wait_see": "0",
                 "wait_bed": "0",
                 "wait_general": "1",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -750,7 +750,7 @@
                 "wait_bed": "0",
                 "wait_general": "0",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -771,9 +771,9 @@
                 "inform": "N",
                 "wait_see": "0",
                 "wait_bed": "0",
-                "wait_general": "7",
+                "wait_general": "8",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -796,7 +796,7 @@
                 "wait_bed": "0",
                 "wait_general": "0",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -815,11 +815,11 @@
                 "address": "彰化縣彰化市南校街135號、中華路176號、旭光路235、320號",
                 "type": "醫學中心",
                 "inform": "N",
-                "wait_see": "1",
+                "wait_see": "3",
                 "wait_bed": "0",
                 "wait_general": "2",
                 "wait_icu": "1",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -842,7 +842,7 @@
                 "wait_bed": null,
                 "wait_general": null,
                 "wait_icu": null,
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -863,9 +863,9 @@
                 "inform": "N",
                 "wait_see": "0",
                 "wait_bed": "0",
-                "wait_general": "2",
+                "wait_general": "0",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -888,7 +888,7 @@
                 "wait_bed": null,
                 "wait_general": null,
                 "wait_icu": null,
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -907,11 +907,11 @@
                 "address": "臺中市南區建國北路一段１１０號",
                 "type": "醫學中心",
                 "inform": "N",
-                "wait_see": "1",
+                "wait_see": "2",
                 "wait_bed": "0",
-                "wait_general": "7",
+                "wait_general": "5",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -930,11 +930,11 @@
                 "address": "臺中市北區育德路２號",
                 "type": "醫學中心",
                 "inform": "N",
-                "wait_see": "3",
+                "wait_see": "4",
                 "wait_bed": "0",
-                "wait_general": "12",
+                "wait_general": "17",
                 "wait_icu": "2",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -957,7 +957,7 @@
                 "wait_bed": "0",
                 "wait_general": "0",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -976,11 +976,11 @@
                 "address": "臺南市北區勝利路１３８號",
                 "type": "醫學中心",
                 "inform": "N",
-                "wait_see": "4",
+                "wait_see": "6",
                 "wait_bed": "0",
-                "wait_general": "22",
+                "wait_general": "23",
                 "wait_icu": "1",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -999,11 +999,11 @@
                 "address": "雲林縣斗六市雲林路二段５７９號",
                 "type": "區域醫院",
                 "inform": "N",
-                "wait_see": "1",
+                "wait_see": "0",
                 "wait_bed": "0",
-                "wait_general": "8",
+                "wait_general": "9",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -1026,7 +1026,7 @@
                 "wait_bed": "0",
                 "wait_general": "15",
                 "wait_icu": "1",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -1045,11 +1045,11 @@
                 "address": "嘉義縣朴子市仁和里長庚一路６號及嘉朴路西段８號",
                 "type": "區域醫院",
                 "inform": "N",
-                "wait_see": "4",
+                "wait_see": "2",
                 "wait_bed": "0",
                 "wait_general": "21",
                 "wait_icu": "2",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -1072,7 +1072,7 @@
                 "wait_bed": "0",
                 "wait_general": "8",
                 "wait_icu": "1",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -1091,11 +1091,11 @@
                 "address": "臺南市永康區中華路９０１號、臺南市南區樹林街二段４４２號",
                 "type": "醫學中心",
                 "inform": "N",
-                "wait_see": "6",
+                "wait_see": "4",
                 "wait_bed": "0",
                 "wait_general": "25",
                 "wait_icu": "2",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -1118,7 +1118,7 @@
                 "wait_bed": "0",
                 "wait_general": "22",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -1137,11 +1137,11 @@
                 "address": "高雄市鳥松區大埤路１２３號",
                 "type": "醫學中心",
                 "inform": "N",
-                "wait_see": "4",
+                "wait_see": "3",
                 "wait_bed": "0",
                 "wait_general": "70",
                 "wait_icu": "4",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -1160,11 +1160,11 @@
                 "address": "高雄市燕巢區角宿里義大路１號",
                 "type": "醫學中心",
                 "inform": "N",
-                "wait_see": "1",
+                "wait_see": "2",
                 "wait_bed": "0",
                 "wait_general": "19",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,7 +1187,7 @@
                 "wait_bed": "0",
                 "wait_general": "3",
                 "wait_icu": "1",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -1206,11 +1206,11 @@
                 "address": "高雄市三民區十全一路１００號",
                 "type": "醫學中心",
                 "inform": "N",
-                "wait_see": "1",
+                "wait_see": "2",
                 "wait_bed": "0",
-                "wait_general": "26",
+                "wait_general": "25",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -1233,7 +1233,7 @@
                 "wait_bed": "0",
                 "wait_general": "20",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
@@ -1256,7 +1256,7 @@
                 "wait_bed": "0",
                 "wait_general": "4",
                 "wait_icu": "0",
-                "date": "2025-08-02T22:30:30"
+                "date": "2025-08-02T22:45:11"
             },
             "geometry": {
                 "type": "Point",
