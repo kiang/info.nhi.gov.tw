@@ -1,4 +1,1270 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0101090517",
+                "name": "臺北市立聯合醫院",
+                "phone": "02-25553000",
+                "address": "臺北市大同區鄭州路１４５號（代表）",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": null,
+                "wait_bed": null,
+                "wait_general": null,
+                "wait_icu": null,
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50889,
+                    25.050692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0401180014",
+                "name": "國立臺灣大學醫學院附設醫院",
+                "phone": "02-23123456",
+                "address": "臺北市中正區中山南路７、８號；常德街１號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "136",
+                "wait_icu": "1",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518555,
+                    25.040775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0401180023",
+                "name": "國立臺灣大學醫學院附設醫院兒童醫院",
+                "phone": "02-23123456",
+                "address": "臺北市中正區中山南路８號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "0",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51875,
+                    25.044344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0434010518",
+                "name": "國立陽明交通大學附設醫院",
+                "phone": "03-9325192",
+                "address": "宜蘭縣宜蘭市校舍路１６９號、新民路１５２號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "7",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75798,
+                    24.750051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0501110514",
+                "name": "三軍總醫院附設民眾診療服務處",
+                "phone": "02-87923311",
+                "address": "臺北市內湖區成功路２段３２５號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "49",
+                "wait_icu": "2",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59198,
+                    25.0718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0601160016",
+                "name": "臺北榮民總醫院",
+                "phone": "02-28712121",
+                "address": "臺北市北投區石牌路２段２０１號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "32",
+                "wait_icu": "1",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519165,
+                    25.11918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1101020018",
+                "name": "國泰醫療財團法人國泰綜合醫院",
+                "phone": "02-27082121",
+                "address": "臺北市大安區仁愛路４段２８０號，２６６巷６號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "5",
+                "wait_icu": "2",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.553696,
+                    25.036942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1101100011",
+                "name": "台灣基督長老教會馬偕醫療財團法人馬偕紀念醫院",
+                "phone": "02-25433535",
+                "address": "臺北市中山區中山北路２段９２號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "2",
+                "wait_bed": "0",
+                "wait_general": "35",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52256,
+                    25.058884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1101100020",
+                "name": "台灣基督長老教會馬偕醫療財團法人馬偕兒童醫院",
+                "phone": "02-25433535",
+                "address": "臺北市中山區中山北路２段９２號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": null,
+                "wait_bed": null,
+                "wait_general": null,
+                "wait_icu": null,
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52256,
+                    25.058884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1101150011",
+                "name": "新光醫療財團法人新光吳火獅紀念醫院",
+                "phone": "02-28332211",
+                "address": "臺北市士林區文昌路９５號及士商路５１號１至７樓５３、５５號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "24",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52029,
+                    25.09624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1101160017",
+                "name": "振興醫療財團法人振興醫院",
+                "phone": "02-28264400",
+                "address": "臺北市北投區振興街４５號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "1",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5224,
+                    25.117542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1111060015",
+                "name": "長庚醫療財團法人基隆長庚紀念醫院",
+                "phone": "02-24313131",
+                "address": "基隆市安樂區麥金路２２２號、基隆市麥金路２０１號",
+                "type": "區域醫院",
+                "inform": "Y",
+                "wait_see": "0",
+                "wait_bed": "10",
+                "wait_general": "9",
+                "wait_icu": "1",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.72237,
+                    25.120882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1131010011",
+                "name": "醫療財團法人徐元智先生醫藥基金會亞東紀念醫院",
+                "phone": "02-89667000",
+                "address": "新北市板橋區南雅南路２段２１號及高爾富路３００號",
+                "type": "醫學中心",
+                "inform": "Y",
+                "wait_see": "1",
+                "wait_bed": "15",
+                "wait_general": "18",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45231,
+                    24.997313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1131050515",
+                "name": "佛教慈濟醫療財團法人台北慈濟醫院",
+                "phone": "02-66289779",
+                "address": "新北市新店區建國路２８９號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "25",
+                "wait_icu": "1",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.535805,
+                    24.98578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1131100010",
+                "name": "台灣基督長老教會馬偕醫療財團法人淡水馬偕紀念醫院",
+                "phone": "02-28094661",
+                "address": "新北市淡水區民生路４５號、民權路４７號B１至１０樓",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "2",
+                "wait_bed": "0",
+                "wait_general": "6",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4605,
+                    25.139534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1131130018",
+                "name": "新北市立土城醫院（委託長庚醫療財團法人興建經營）",
+                "phone": "02-22630588",
+                "address": "新北市土城區金城路２段６號",
+                "type": "區域醫院",
+                "inform": "Y",
+                "wait_see": "3",
+                "wait_bed": "0",
+                "wait_general": "35",
+                "wait_icu": "1",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44873,
+                    24.976437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1134020019",
+                "name": "醫療財團法人羅許基金會羅東博愛醫院",
+                "phone": "03-9543131",
+                "address": "宜蘭縣羅東鎮南昌街８１、８３號及站前南路６１、６３號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "19",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77313,
+                    24.671679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1231050017",
+                "name": "天主教耕莘醫療財團法人耕莘醫院",
+                "phone": "02-22193391",
+                "address": "新北市新店區中正路３６２號、車子路１５號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "4",
+                "wait_bed": "0",
+                "wait_general": "34",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53562,
+                    24.976084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1301170017",
+                "name": "臺北醫學大學附設醫院",
+                "phone": "02-27372181",
+                "address": "臺北市信義區吳興街２５２號、２５０號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "2",
+                "wait_bed": "0",
+                "wait_general": "16",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56364,
+                    25.026636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1301200010",
+                "name": "臺北市立萬芳醫院－委託臺北醫學大學辦理",
+                "phone": "02-29307930",
+                "address": "臺北市文山區興隆路３段１１１號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "4",
+                "wait_bed": "0",
+                "wait_general": "27",
+                "wait_icu": "1",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55833,
+                    25.000305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1331040513",
+                "name": "衛生福利部雙和醫院〈委託臺北醫學大學興建經營〉",
+                "phone": "02-22490088",
+                "address": "新北市中和區中正路２９１號醫療大樓地下２層至地上１２層",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "3",
+                "wait_bed": "0",
+                "wait_general": "40",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.49408,
+                    24.993746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1331160010",
+                "name": "輔仁大學學校財團法人輔仁大學附設醫院",
+                "phone": "02-85128888",
+                "address": "新北市泰山區貴子路６９號（地下４層、地上１至１３層、１５層）",
+                "type": "區域醫院",
+                "inform": "Y",
+                "wait_see": "1",
+                "wait_bed": "1",
+                "wait_general": "37",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4308,
+                    25.039677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0132010014",
+                "name": "衛生福利部桃園醫院",
+                "phone": "03-3699721",
+                "address": "桃園市桃園區中山路１４９２號",
+                "type": "區域醫院",
+                "inform": "Y",
+                "wait_see": "7",
+                "wait_bed": "0",
+                "wait_general": "26",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.26809,
+                    24.977705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0412040012",
+                "name": "國立臺灣大學醫學院附設醫院新竹臺大分院新竹醫院",
+                "phone": "03-5326151",
+                "address": "新竹市北區金華里經國路一段442巷25號",
+                "type": "醫學中心",
+                "inform": "Y",
+                "wait_see": "0",
+                "wait_bed": "5",
+                "wait_general": "33",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97992,
+                    24.816708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0933050018",
+                "name": "東元醫療社團法人東元綜合醫院",
+                "phone": "03-5527000",
+                "address": "新竹縣竹北市縣政二路６９號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "0",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.012924,
+                    24.819769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1112010519",
+                "name": "台灣基督長老教會馬偕醫療財團法人新竹馬偕紀念醫院",
+                "phone": "03-6119595",
+                "address": "新竹市東區光復路二段６９０號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "3",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99078,
+                    24.800087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1112010537",
+                "name": "新竹市立馬偕兒童醫院(委託台灣基督長老教會馬偕醫療財團法人興",
+                "phone": "03-5719999",
+                "address": "新竹市東區建功里建功二路２８號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "0",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00293,
+                    24.79716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1132070011",
+                "name": "長庚醫療財團法人林口長庚紀念醫院",
+                "phone": "03-3281200",
+                "address": "桃園市龜山區公西里復興街５號、５之７號及文化一路１５號",
+                "type": "醫學中心",
+                "inform": "Y",
+                "wait_see": "5",
+                "wait_bed": "21",
+                "wait_general": "134",
+                "wait_icu": "4",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.36732,
+                    25.061317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1135050020",
+                "name": "為恭醫療財團法人為恭紀念醫院",
+                "phone": "037-676811",
+                "address": "苗栗縣頭份市信義路１２８號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "13",
+                "wait_icu": "1",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.90735,
+                    24.687096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1535010051",
+                "name": "大千綜合醫院",
+                "phone": "037-357125",
+                "address": "苗栗縣苗栗市大同路133號、信義路23號、恭敬路36號、信義街36號",
+                "type": "地區醫院",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "16",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.81549,
+                    24.551743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0617060018",
+                "name": "臺中榮民總醫院",
+                "phone": "04-23592525",
+                "address": "臺中市西屯區臺灣大道４段１６５０號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "11",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.604645,
+                    24.184298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0936050029",
+                "name": "光田醫療社團法人光田綜合醫院",
+                "phone": "04-26625111",
+                "address": "臺中市沙鹿區沙田路１１７號、向上路七段１２７號及１２５號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "1",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55886,
+                    24.235394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0936060016",
+                "name": "童綜合醫療社團法人童綜合醫院",
+                "phone": "04-26581919",
+                "address": "臺中市梧棲區臺灣大道八段６９９號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "2",
+                "wait_bed": "0",
+                "wait_general": "0",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5425,
+                    24.247286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0937010019",
+                "name": "秀傳醫療社團法人秀傳紀念醫院",
+                "phone": "04-7256166",
+                "address": "彰化縣彰化市南瑤里中山路１段５４２號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "9",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.537506,
+                    24.064787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1136090519",
+                "name": "佛教慈濟醫療財團法人台中慈濟醫院",
+                "phone": "04-36060666",
+                "address": "臺中市潭子區豐興路１段６６、８８號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "25",
+                "wait_icu": "1",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720345,
+                    24.193855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1137010024",
+                "name": "彰化基督教醫療財團法人彰化基督教醫院",
+                "phone": "04-7238595",
+                "address": "彰化縣彰化市南校街135號、中華路176號、旭光路235、320號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "32",
+                "wait_icu": "2",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544464,
+                    24.07149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1137010042",
+                "name": "彰化基督教醫療財團法人彰化基督教兒童醫院",
+                "phone": "04-7238595",
+                "address": "彰化縣彰化市光南里１３鄰旭光路３２０號、南校街１３５號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": null,
+                "wait_bed": null,
+                "wait_general": null,
+                "wait_icu": null,
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54354,
+                    24.071173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1137020511",
+                "name": "秀傳醫療財團法人彰濱秀傳紀念醫院",
+                "phone": "04-7813888",
+                "address": "彰化縣鹿港鎮鹿工路６號、６－２號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "1",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.41112,
+                    24.078274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1303260014",
+                "name": "中國醫藥大學兒童醫院",
+                "phone": "04-22052121",
+                "address": "臺中市北區育德路１號、學士路９５號、學士路２號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": null,
+                "wait_bed": null,
+                "wait_general": null,
+                "wait_icu": null,
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6809,
+                    24.157219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1317040011",
+                "name": "中山醫學大學附設醫院",
+                "phone": "04-24739595",
+                "address": "臺中市南區建國北路一段１１０號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "20",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6499,
+                    24.121754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1317050017",
+                "name": "中國醫藥大學附設醫院",
+                "phone": "04-22052121",
+                "address": "臺中市北區育德路２號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "2",
+                "wait_bed": "0",
+                "wait_general": "26",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680046,
+                    24.157211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1517061032",
+                "name": "澄清綜合醫院中港分院",
+                "phone": "04-24632000",
+                "address": "臺中市西屯區臺灣大道４段９６６號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "0",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.617035,
+                    24.182854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0421040011",
+                "name": "國立成功大學醫學院附設醫院",
+                "phone": "06-2353535",
+                "address": "臺南市北區勝利路１３８號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "50",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.21923,
+                    23.00221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0439010518",
+                "name": "國立臺灣大學醫學院附設醫院雲林分院",
+                "phone": "05-5323911",
+                "address": "雲林縣斗六市雲林路二段５７９號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "10",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.52593,
+                    23.697662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1122010012",
+                "name": "戴德森醫療財團法人嘉義基督教醫院",
+                "phone": "05-2765041",
+                "address": "嘉義市東區中庄里忠孝路５３９號、６４２號、保健街１００號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "36",
+                "wait_icu": "1",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45005,
+                    23.4994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1140010510",
+                "name": "長庚醫療財團法人嘉義長庚紀念醫院",
+                "phone": "05-3621000",
+                "address": "嘉義縣朴子市仁和里長庚一路６號及嘉朴路西段８號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "10",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.28404,
+                    23.464806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1140030012",
+                "name": "佛教慈濟醫療財團法人大林慈濟醫院",
+                "phone": "05-2648000",
+                "address": "嘉義縣大林鎮平林里民生路２號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "16",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45745,
+                    23.596312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1141310019",
+                "name": "奇美醫療財團法人奇美醫院",
+                "phone": "06-2812811",
+                "address": "臺南市永康區中華路９０１號、臺南市南區樹林街二段４４２號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "68",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.22189,
+                    23.020605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0602030026",
+                "name": "高雄榮民總醫院",
+                "phone": "07-3422121",
+                "address": "高雄市左營區大中一路３８６號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "32",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32226,
+                    22.677696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1142100017",
+                "name": "長庚醫療財團法人高雄長庚紀念醫院",
+                "phone": "07-7317123",
+                "address": "高雄市鳥松區大埤路１２３號",
+                "type": "醫學中心",
+                "inform": "Y",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "106",
+                "wait_icu": "2",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.356026,
+                    22.649847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1142120001",
+                "name": "義大醫療財團法人義大醫院",
+                "phone": "07-6150011",
+                "address": "高雄市燕巢區角宿里義大路１號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "39",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36445,
+                    22.76552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1143010012",
+                "name": "屏基醫療財團法人屏東基督教醫院",
+                "phone": "08-7368686",
+                "address": "屏東縣屏東市大連路６０號，屏東縣屏東市建豐路２巷１１３號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "21",
+                "wait_icu": "2",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.50259,
+                    22.682041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1302050014",
+                "name": "財團法人私立高雄醫學大學附設中和紀念醫院",
+                "phone": "07-3121101",
+                "address": "高雄市三民區十全一路１００號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "58",
+                "wait_icu": "1",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31,
+                    22.645178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1145010010",
+                "name": "佛教慈濟醫療財團法人花蓮慈濟醫院",
+                "phone": "03-8561825",
+                "address": "花蓮縣花蓮市中央路３段７０７號",
+                "type": "醫學中心",
+                "inform": "N",
+                "wait_see": "0",
+                "wait_bed": "0",
+                "wait_general": "18",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.592285,
+                    23.99573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1146010014",
+                "name": "台灣基督長老教會馬偕醫療財團法人台東馬偕紀念醫院",
+                "phone": "089-310150",
+                "address": "臺東縣臺東市長沙街３０３巷１號",
+                "type": "區域醫院",
+                "inform": "N",
+                "wait_see": "1",
+                "wait_bed": "0",
+                "wait_general": "7",
+                "wait_icu": "0",
+                "date": "2025-09-17T01:15:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1406,
+                    22.751293
+                ]
+            }
+        }
+    ]
 }
