@@ -14,7 +14,7 @@
                 "wait_bed": null,
                 "wait_general": null,
                 "wait_icu": null,
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -37,7 +37,7 @@
                 "wait_bed": "10",
                 "wait_general": "103",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -60,7 +60,7 @@
                 "wait_bed": "0",
                 "wait_general": "0",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +83,7 @@
                 "wait_bed": "0",
                 "wait_general": "2",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +106,7 @@
                 "wait_bed": "0",
                 "wait_general": "37",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -129,7 +129,7 @@
                 "wait_bed": "0",
                 "wait_general": "22",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -152,7 +152,7 @@
                 "wait_bed": "0",
                 "wait_general": "7",
                 "wait_icu": "1",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +175,7 @@
                 "wait_bed": "0",
                 "wait_general": "27",
                 "wait_icu": "2",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +198,7 @@
                 "wait_bed": null,
                 "wait_general": null,
                 "wait_icu": null,
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -221,7 +221,7 @@
                 "wait_bed": "0",
                 "wait_general": "22",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -244,7 +244,7 @@
                 "wait_bed": "0",
                 "wait_general": "0",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -267,7 +267,7 @@
                 "wait_bed": "7",
                 "wait_general": "3",
                 "wait_icu": "2",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +290,7 @@
                 "wait_bed": "7",
                 "wait_general": "16",
                 "wait_icu": "2",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +313,7 @@
                 "wait_bed": "0",
                 "wait_general": "33",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -336,7 +336,7 @@
                 "wait_bed": "0",
                 "wait_general": "11",
                 "wait_icu": "1",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -359,7 +359,7 @@
                 "wait_bed": "0",
                 "wait_general": "52",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -382,7 +382,7 @@
                 "wait_bed": "0",
                 "wait_general": "26",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -401,11 +401,11 @@
                 "address": "新北市新店區中正路３６２號、車子路１５號",
                 "type": "區域醫院",
                 "inform": "N",
-                "wait_see": "4",
+                "wait_see": "3",
                 "wait_bed": "0",
                 "wait_general": "32",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -428,7 +428,7 @@
                 "wait_bed": "0",
                 "wait_general": "18",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -451,7 +451,7 @@
                 "wait_bed": "0",
                 "wait_general": "40",
                 "wait_icu": "2",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -470,11 +470,11 @@
                 "address": "新北市中和區中正路２９１號醫療大樓地下２層至地上１２層",
                 "type": "醫學中心",
                 "inform": "N",
-                "wait_see": "0",
+                "wait_see": "2",
                 "wait_bed": "0",
-                "wait_general": "24",
+                "wait_general": "23",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -497,7 +497,7 @@
                 "wait_bed": "1",
                 "wait_general": "37",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -516,11 +516,11 @@
                 "address": "桃園市桃園區中山路１４９２號",
                 "type": "區域醫院",
                 "inform": "Y",
-                "wait_see": "1",
+                "wait_see": "2",
                 "wait_bed": "0",
                 "wait_general": "26",
                 "wait_icu": "1",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -543,7 +543,7 @@
                 "wait_bed": "0",
                 "wait_general": "23",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -566,7 +566,7 @@
                 "wait_bed": "0",
                 "wait_general": "1",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -589,7 +589,7 @@
                 "wait_bed": "0",
                 "wait_general": "0",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -612,7 +612,7 @@
                 "wait_bed": "0",
                 "wait_general": "1",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -635,7 +635,7 @@
                 "wait_bed": "12",
                 "wait_general": "141",
                 "wait_icu": "5",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -658,7 +658,7 @@
                 "wait_bed": "0",
                 "wait_general": "4",
                 "wait_icu": "1",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -681,7 +681,7 @@
                 "wait_bed": "0",
                 "wait_general": "16",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -704,7 +704,7 @@
                 "wait_bed": "0",
                 "wait_general": "15",
                 "wait_icu": "2",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -727,7 +727,7 @@
                 "wait_bed": "0",
                 "wait_general": "2",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -750,7 +750,7 @@
                 "wait_bed": "0",
                 "wait_general": "0",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -773,7 +773,7 @@
                 "wait_bed": "0",
                 "wait_general": "13",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -796,7 +796,7 @@
                 "wait_bed": "0",
                 "wait_general": "33",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -819,7 +819,7 @@
                 "wait_bed": "0",
                 "wait_general": "24",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -842,7 +842,7 @@
                 "wait_bed": null,
                 "wait_general": null,
                 "wait_icu": null,
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -865,7 +865,7 @@
                 "wait_bed": "0",
                 "wait_general": "1",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -888,7 +888,7 @@
                 "wait_bed": null,
                 "wait_general": null,
                 "wait_icu": null,
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -911,7 +911,7 @@
                 "wait_bed": "0",
                 "wait_general": "15",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -934,7 +934,7 @@
                 "wait_bed": "0",
                 "wait_general": "39",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -957,7 +957,7 @@
                 "wait_bed": "0",
                 "wait_general": "0",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -980,7 +980,7 @@
                 "wait_bed": "0",
                 "wait_general": "43",
                 "wait_icu": "2",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -999,11 +999,11 @@
                 "address": "雲林縣斗六市雲林路二段５７９號",
                 "type": "區域醫院",
                 "inform": "N",
-                "wait_see": "0",
+                "wait_see": "1",
                 "wait_bed": "0",
                 "wait_general": "22",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -1022,11 +1022,11 @@
                 "address": "嘉義市東區中庄里忠孝路５３９號、６４２號、保健街１００號",
                 "type": "區域醫院",
                 "inform": "N",
-                "wait_see": "2",
+                "wait_see": "3",
                 "wait_bed": "0",
-                "wait_general": "34",
+                "wait_general": "35",
                 "wait_icu": "1",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -1049,7 +1049,7 @@
                 "wait_bed": "0",
                 "wait_general": "19",
                 "wait_icu": "3",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -1072,7 +1072,7 @@
                 "wait_bed": "0",
                 "wait_general": "14",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -1091,11 +1091,11 @@
                 "address": "臺南市永康區中華路９０１號、臺南市南區樹林街二段４４２號",
                 "type": "醫學中心",
                 "inform": "N",
-                "wait_see": "0",
+                "wait_see": "2",
                 "wait_bed": "0",
                 "wait_general": "59",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -1114,11 +1114,11 @@
                 "address": "高雄市左營區大中一路３８６號",
                 "type": "醫學中心",
                 "inform": "N",
-                "wait_see": "0",
+                "wait_see": "1",
                 "wait_bed": "0",
                 "wait_general": "24",
                 "wait_icu": "1",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -1137,11 +1137,11 @@
                 "address": "高雄市鳥松區大埤路１２３號",
                 "type": "醫學中心",
                 "inform": "Y",
-                "wait_see": "0",
+                "wait_see": "1",
                 "wait_bed": "0",
                 "wait_general": "103",
                 "wait_icu": "4",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -1164,7 +1164,7 @@
                 "wait_bed": "0",
                 "wait_general": "40",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -1187,7 +1187,7 @@
                 "wait_bed": "0",
                 "wait_general": "24",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -1210,7 +1210,7 @@
                 "wait_bed": "0",
                 "wait_general": "52",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -1233,7 +1233,7 @@
                 "wait_bed": "0",
                 "wait_general": "34",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
@@ -1256,7 +1256,7 @@
                 "wait_bed": "0",
                 "wait_general": "11",
                 "wait_icu": "0",
-                "date": "2025-09-19T06:15:15"
+                "date": "2025-09-19T06:30:18"
             },
             "geometry": {
                 "type": "Point",
